@@ -1,1 +1,2 @@
-Migration lizhien.com
+Migration and redesign lizhien.com
+
