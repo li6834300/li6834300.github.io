@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Projects
-permalink: /projects/
 ---
 
 ### [Project 1](https://github.com/tux4kids/tuxmania) 

@@ -1,0 +1,28 @@
+
+/***************/
+/* MEYER RESET */
+/***************/
+
+.projects{
+	.entry{
+		width:60%;
+		height: 222px;
+		text-overflow: ellipsis;
+		p{
+			max-width: 432px;
+			text-overflow: ellipsis;
+			max-height: 135px;
+			display: inline-block;
+			overflow: hidden;
+			display: -webkit-box;
+			-webkit-line-clamp: 5;
+			-webkit-box-orient: vertical;
+		}
+		div{
+			//width: 35%;
+			//float: right;
+			//margin: 15px 0;
+		}
+	}
+}
+
