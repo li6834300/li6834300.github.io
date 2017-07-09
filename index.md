@@ -10,7 +10,8 @@ title: Projects
 
     <div class="image {{project.align}}"><img src="{{ site.baseurl }}/images/{{project.preview}}"></div>
       <div class="entry">
-      <h1><a href="{{ site.baseurl }}{{ project.url }}"> <span class="tags">[{% for tag in project.tags %}{{tag.content}}{% endfor %}]</span>
+      <h1><a href="{{ site.baseurl }}{{ project.url }}"> <span class="tags">[{% for tag in project.tags %}{{tag.content}}{% if forloop.last == false %},
+                                                                                                                         {% endif %}{% endfor %}]</span>
       {{ project.title }}</a></h1>
         {{ project.excerpt }}
 
