@@ -1,12 +1,58 @@
 .projects{
   .post{
+    margin-top: 20px;
     .image{
       width: 35%;
       display: inline-block;
-      float: right;
+      margin: 10px;
       img{
       	margin: 5px 0px;
       }
+    }
+    .align-right {
+      float: right;
+
+    }
+    .align-left {
+      float: left;
+      margin-right: 25px
+    }
+    .entry {
+      display: inline-block;
+      height: 200px;
+      p {
+        margin: 0px;
+      }
+      h1 {
+        margin-bottom: 0px;
+        margin-top: 0.5em;
+      }
+    }
+    .project-base-footer{
+      display: block;
+      margin-bottom: 5px;
+      font-size:75%;
+    }
+    .tags {
+      font-size: 10px;
+    }
+
+  }
+
+}
+a {
+  color: #2894bc;
+}
+
+.content-end-link {
+  display: block;
+  margin-top: 10px;
+}
+.post{
+  .entry{
+    .content-img-middle{
+      display: block;
+      margin: 30px auto;
     }
   }
 }

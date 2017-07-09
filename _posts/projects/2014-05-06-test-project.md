@@ -1,9 +1,17 @@
 ---
 layout: post
-title: A test post
-author: Author Name
+title: My Marriage Website
+author: Zhien Li
 category: projects
+tags:
+    - content: Personal work
 preview: projectImg/marriage_snap_shoot_01.png
+align: align-right
+urlLinks:
+    - url:  http://lizhien.com/marriage/
+      name: The Marriage Website
+    - url: http://file.vxplo.cn/?nid=296141&key=dcb7fa6da1&title=V2VkZGluZyBJbnZpdGF0aW9u&width=640&v=32&slink=/idea/mH2rmv0#p1
+      name: Invite letter (Better to Open with mobile device)
 
 ---
 
@@ -16,4 +24,7 @@ I hand crafted my own marriage website with Bootstrap. To make life easier, my m
 The first time in my life acting as a project owner(Of course). The I find out that I am developer, designer, project manager, and QA myself. This was a great expericence to work on a project as a whole. Web development is a part of the whole project. I had to think of the apparance of the website and make decision of using which funcations and libraries. What's more, besides booking place and prepare wedding details, collecting information and delivering invitation letters tasks are also on me. I integrated MailChimp to collect user infromation and created a WeChat App to delivering the wedding invitation letters. 
 ![MailChimp]({{ site.url }}/images/projectImg/marriage_mailchimp_screen_shoot.png){:class="content-img-left"}
 
-The invitation letter was sent to about 100 people and about 60% of the guests opened and regested through the website. Most of them left their best wishes on the site. 
+The invitation letter was sent to about 100 people and about 60% of the guests opened and regested through the website. Most of them left their best wishes on the site.
+![Wedding cover page]({{ site.url }}/images/projectImg/marry_1.jpg){:class="content-img-middle"}
+![Wedding cover page]({{ site.url }}/images/projectImg/marry_2.jpg){:class="content-img-middle"}
+![Wedding cover page]({{ site.url }}/images/projectImg/marry_3.jpg){:class="content-img-middle"}
