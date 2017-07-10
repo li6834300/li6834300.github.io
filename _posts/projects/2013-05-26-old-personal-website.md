@@ -16,7 +16,7 @@ urlLinks:
 
 I learned HTML, CSS, and JS all by myself and also participated some application development. This one was the first site that I have to organize， design, and code independently.
 
-## Old Portfolio Site
+## {{page.title}}
 -----
 
 ![Portfolio]({{ site.url }}/images/projectImg/portfolio_1.jpg){:class="content-img-left"}

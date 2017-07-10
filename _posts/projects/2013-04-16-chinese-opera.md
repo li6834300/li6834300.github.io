@@ -17,7 +17,7 @@ urlLinks:
 
 I was very lucky to get involved in the performance which was hosted by New York Chinese Opera Society. I designed the playbill for the performance at Naugatuck Valley community college. I was excited that I could assist them make the show happen.
 
-## The Marriage Website
+## {{page.title}}
 -----
 
 ![chinese_opera]({{ site.url }}/images/projectImg/chinese_opera_1.jpg){:class="content-img-left"}
