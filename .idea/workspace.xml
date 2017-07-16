@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae8649c0-fb06-49ac-b8e4-b4f6de98410c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/blog_post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/myBlogs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/posts/2016-03-11-how-to-host-with-github-pages.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-03-06-Eternal-Lorem-Ipsum.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-03-08-just-a-test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-03-09-Another-test-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-03-11-A-New_test.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/blog.html" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" afterPath="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" />
     </list>
     <ignored path="li6834300.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-07-06-etc.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,16 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2008-8-02-game.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/projects/2008-8-02-game.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -207,7 +197,6 @@
         <option value="$PROJECT_DIR$/_posts/projects/2017-01-06-seefilm.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2014-05-06-wedding.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2014-05-05-citibank.md" />
-        <option value="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2013-04-16-chinese-opera.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2012-07-16-school-projects.md" />
@@ -222,6 +211,7 @@
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/_layouts/myBlogs.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" />
       </list>
     </option>
   </component>
@@ -294,6 +284,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -435,12 +429,12 @@
       <workItem from="1499573126294" duration="29000" />
       <workItem from="1499573743688" duration="18741000" />
       <workItem from="1499870002613" duration="2729000" />
-      <workItem from="1500094930472" duration="12012000" />
+      <workItem from="1500094930472" duration="12252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41456000" />
+    <option name="totallyTimeSpent" value="41696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
@@ -676,14 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -816,6 +802,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
