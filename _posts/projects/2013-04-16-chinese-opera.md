@@ -6,12 +6,12 @@ category: projects
 tags:
     - content: Video Produce
 preview: projectImg/chinese_opera_3.jpg
-align: align-right
+align: align-left
 urlLinks:
-    - url:  http://lizhien.com/marriage/
-      name: The Marriage Website
-    - url: http://file.vxplo.cn/?nid=296141&key=dcb7fa6da1&title=V2VkZGluZyBJbnZpdGF0aW9u&width=640&v=32&slink=/idea/mH2rmv0#p1
-      name: Invite letter (Better to Open with mobile device)
+    - url:  http://nycos.org/
+      name: NYCOS
+    - url: http://nycos.org/?page_id=628
+      name: The Youth Troupe
 
 ---
 

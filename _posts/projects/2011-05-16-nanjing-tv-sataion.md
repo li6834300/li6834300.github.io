@@ -6,7 +6,7 @@ category: projects
 tags:
     - content: Video produce
 preview: projectImg/station_2.jpg
-align: align-right
+align: align-left
 
 
 ---

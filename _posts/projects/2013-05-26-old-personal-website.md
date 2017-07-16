@@ -6,7 +6,7 @@ category: projects
 tags:
     - content: Web Dev
 preview: projectImg/portfolio_1.jpg
-align: align-left
+align: align-right
 urlLinks:
     - url:  http://lizhien.com/old/
       name: My first portfolio before redesign

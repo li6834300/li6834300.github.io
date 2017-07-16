@@ -6,7 +6,7 @@ category: projects
 tags:
     - content: Academic
 preview: projectImg/school_2.jpg
-align: align-left
+align: align-right
 
 
 ---
