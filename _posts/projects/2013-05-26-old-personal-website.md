@@ -8,7 +8,7 @@ tags:
 preview: projectImg/portfolio_1.jpg
 align: align-right
 urlLinks:
-    - url:  http://lizhien.com/old/
+    - url:  http://lizhien.com/oldPortfolio/
       name: My first portfolio before redesign
 
 

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae8649c0-fb06-49ac-b8e4-b4f6de98410c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" afterPath="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md" afterPath="$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md" />
     </list>
     <ignored path="li6834300.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-07-06-etc.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2013-07-06-etc.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-05-26-old-personal-website.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -99,16 +109,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -197,7 +197,6 @@
         <option value="$PROJECT_DIR$/_posts/projects/2017-01-06-seefilm.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2014-05-06-wedding.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2014-05-05-citibank.md" />
-        <option value="$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2013-04-16-chinese-opera.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2012-07-16-school-projects.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2011-05-16-nanjing-tv-sataion.md" />
@@ -212,6 +211,7 @@
         <option value="$PROJECT_DIR$/_layouts/myBlogs.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md" />
+        <option value="$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md" />
       </list>
     </option>
   </component>
@@ -429,12 +429,12 @@
       <workItem from="1499573126294" duration="29000" />
       <workItem from="1499573743688" duration="18741000" />
       <workItem from="1499870002613" duration="2729000" />
-      <workItem from="1500094930472" duration="12252000" />
+      <workItem from="1500094930472" duration="12458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41696000" />
+    <option name="totallyTimeSpent" value="41902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
@@ -670,14 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/projects/2012-07-16-school-projects.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -809,7 +801,15 @@
     <entry file="file://$PROJECT_DIR$/_posts/projects/2013-07-06-etc.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/projects/2013-05-26-old-personal-website.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
