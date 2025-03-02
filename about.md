@@ -5,120 +5,155 @@ permalink: /about/
 ---
 
 ---
-6911 19 Ave, Brooklyn, NY, 11204 | (650) 753-2587 | kenli@nyu.edu | Skype: li6834300 Site: http://www.lizhien.com
+
+Petrus Gaginistraat 51, 6217GG, Maastricht, Netherlands  
++31 0613085599 | kenli@nyu.edu | Site: [www.lizhien.me](https://li6834300.github.io/)  
 
 ---
-## Technical Skills
 
-#### PROGRAMMING
-* JavaScript, HTML5, Angular.js, Java, C#, CSS, jQuery, D3.js, JSPlumb, gridster.js, PHP, Karma, Jasmine, Less, PhPUnit, React.Js, Yii, Kafka, Rsyslog, MongoDB, Vertica, Spark streaming,
+## Profile Summary
 
-#### OPERATION SYSTEM & TECH MANAGEMENT
-* Git, Mercurial, TortoiseHg, Scrum, Intellij IDEA, Cloud 9, Agile, Phantom, MVC, MS Office applications, Leap Motion SDK, Arduino, Wordpress, Inbound Marketing
-
-#### DESIGN
-* Photoshop, Premiere, After Effect, 3D Max, Unity 3D, MAX/MSP
+Learning Science specialist, doctoral researcher, and software engineer with hands-on experience in instructional design, LMS management, and teaching for secondary & post-secondary students. Skilled in integrating interactive learning experiences into the classroom that enhance students' critical thinking, self-regulated learning (SRL), and knowledge transfer.
 
 ---
-## Experience
 
-#### D3 FRONT-END ENGINEER at RINGCENTRAL CORP (NYSE: RNG)		OCT 2015 TO CURRENT
-
-- D3 Customer Reporting (CFA). (Angular.JS, PHP, Less, Scrum, Git, Intellij IDE, Jira, D3.JS, MySql, Mercurial)
-    *	Improved logic accuracy by creating data logic analysis machine and worked with project manager fixing multiple data selection logic issues.
-    *	Follow Scrum development methodology. Communicate with QA and team leader to define issue tickets.  Use Jira to build and manage existing workflow.
-
-    *	Rewrote documentation included environment setup, deployment process, and road map.
-    *	Trained new team member. Introduced project road map, how to setup environment, and code structure.
-    *	Fix Bugs for Customer Reporting feature as daily task.
-
-- Subscription Customer Reporting (Angular.JS, Jasmine, PHP Restful API)
-    *	Created management page UI, all functionality, Subscription UI and related function.
-    *	Worked on tight schedule to deliver an award winning POC (Prove of concept) demo in only two weeks.
-    *	Master the Restful API to store users subscription and PAS API to generate subscribed report email.
-    *	Communicated with designer for interface details including icon replacement, and page layout.
-    *	Setup Unit testing environment with Karma, Jasmine and PHPUnit, wrote Unit testing code for new features.
-
-- Subscription monitoring system. (Kafka, Java, Rsyslog, MongoDB, Vertica DB, Jira, Scrum, Architecting, Tableau)
-
-CFA monitoring system is a functional project target internal users who need to monitor the Email delivery status sent by Customer Reporting system. This monitoring system helped to find and identify email-sending errors before customers get them. It decreased error occurring rate by 60% and saved 40% debugging time on this specific issue.
-    *   Architected the project and collected API information.
-    *   Crafted code to getting data, processing data, and reading system log files.
-    *   Documented introduction and prepared release note for project release.
-    *   Communicated with Arch team and OPS team to prepare system update and system configuration update.
-
-- Projects Internationalization (i18n). (Angular localization packages and i18n service packages, PHP i18n service packages)
-    *	Made the web application importable to all languages. Replaced all content on Customer Reporting feature with i18n friendly variables.
-    *	Used Angular Customized localization service package to make all number, symbol, and time format localized.
-    *	I localized special strings at server side enabled the Customer Reporting feature is able to search localized variables. Which was not enabled in other feature teams.
-    *	Exported Sudo localization package and communicated with International team for package translation. Now our product is localized in 7 different languages.
-    *	Customized UI for localized content assure UI was all languages friendly
-
-#### WEB DEVELOPER | CITI GROUP (NYSE: C) | BUFFALO, NY 		APR 2014 TO JUL 2015
-
-- Newsletter, Email, web content update Mini site development (ICMS, HTML, CSS, JS, JSP)
-    *	Communicated with project manager. Updated web content, created newsletter and email with strict branding requirement. Created client-facing website, newsletter and email.
-    *	Followed the brand guide to develop mini-site for Citi’s client events.
-    *	Rebranded old pages with new templates
-
-- Full site migration
-    *	Created an automatic migration patch, saved at least 15 people hour effort per migration patch.
-    *	Rewrote many old pages to rebranded template.
-    *	Rewrote some CSS file based on the re-branded design.
-
-- Client registrations & survey form and website visiting data report (IEWA, Omniture)
-    *	Setup Ominiture tracking script.
-    *	Created survey & registration form for clients and pull register information for clients.
-    *	Generated website metrics data with Omniture for marketing analysis purposes.
-
-#### WEB DEVELOPER | EVOLVING TECHNOLOGIES CORPORATION | BROOKLYN, NY	JUL 2012 TO FEB 2014
-
-- 3D Earthquake Data Visualization. (Unity3D, JavaScript, Leap Motion SDK, HTML, JSON, Node.js)
-    *	Designed Earthquake Data Visualization outline using Unity 3D, which is a game design engine.
-    *	Analyzed Leap Motion data refine user experience; Wrote user interaction functions using JavaScript.
-    *	Created workflows to visualize data from USGS earthquake website.
-    *	The project was exhibited at the 2013 NYU-Poly annual Research Expo.
-
-- ETC United (JavaScript, HTML, JQuery, JSPlumb.js, gridster.js, handsometable.js, D3.js, OOP, Angular.js, Node.js)
-
-    *	This is a web application that allows business people analysis data and negotiate business problem in a remote web environment. The project has 7 people in the team include me.
-    *	Designed the application layout, generated drag & drop function with JQuery, pipeline float outline with JSPlumb.
-    *	Wrote script to collect user inputs and query data, then sent data to the back-end terminal.
-
----
 ## Education
 
-#### Master of Science | New York University Polytechnic Institute | GPA 3.83	MAY 2013
+#### Ph.D. Candidate in Educational Technology | Maastricht University  
+JUNE 2022 – PRESENT  
 
--	Major: Integrated Digital Media (IDM)
--	Related coursework: Game Design, User Experience, Media Study, Media Organization, Video for New Media
--	IDM is a computer science related major that focus on new media technologies such as Web and Videos
+- **Research Focus**: Integrating virtual patients (VP) in medical education to foster knowledge acquisition and transfer.  
+- **Instructional Design & Innovation**: Developed an online VP simulation session for a personalized cancer treatment course, demonstrating significant improvements in learners’ clinical reasoning and performance.  
 
-#### Bachelor of Engineering | Communication University of China in Nanjing | GPA 3.18	JUN 2010
--	Major: Broadcast Engineering
--	Minor: Public Relations and Marketing
--	Related coursework: TV program production, Editing, and Broadcasting, Language C, Technology of Digital TV, Signal processing, Digital Graphic Processing
+#### Master of Science in Integrated Digital Media | New York University | GPA 3.85 / 4  
+MAY 2013  
 
----
-## Academic Projects
+- **Key coursework**: Game Design, HCI/User Experience, Media Study, Web Development, Video for New Media.  
+- IDM is a computer science-related major focusing on new media technologies.  
 
-#### POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY	JAN 2012 TO MAY 2012
+#### Bachelor in Broadcast Engineering | Communication University of China in Nanjing | GPA 3.23 / 4  
+JUN 2010  
 
--	Led Poly Virtual Campus Experience group project (Unity 3D, Unity JavaScript, 3D Max, Photoshop)
--	Created Sound-Color controlled Star War game (Java, Processing)
--	Developed Stop-go virtual game (Java, Processing)
+- **Minor**: Public Relations & Marketing  
+- **Key coursework**: TV program production, Editing, Broadcasting, Digital TV Technology, Signal Processing, Digital Graphic Processing.  
 
 ---
-## Other Projects
 
-#### WEDDING WEBSITE AND WECHAT INVITATION
--	Prepared and collected all the wedding information
--	Designed and created the wedding site in English and Chinese version from scratch using Bootstrap (lizhien.com/marriage)
--	Created Wechat Invitation letter (http://play.ih5.cn/idea/mH2rmv0?from=message&isappinstalled=0#p1)
--	Collected registration data through MailChimp
--	Made everything happen!
+## Publications
+
+- **Li, Z., Asoodar, M., de Jong, N., Könings, K., & van der Vaart, L.** (2024).  
+  *Perception of enhanced learning in medicine through integrating of virtual patients: an exploratory study on knowledge acquisition and transfer.*  
+  **BMC Medical Education, 24, 647.** [https://doi.org/10.1186/s12909-024-05624-7](https://doi.org/10.1186/s12909-024-05624-7)  
+
 
 ---
-## Contact me
 
-[kenli@nyu.edu](mailto:kenli@nyu.edu)
+## Experience  
+
+### CS Teacher, LMS Manager, Coordinator | Farragut Academy Dongguan  
+JUN 2020 TO JUN 2022  
+
+- **Curriculum Design & Secondary-Level Teaching**  
+  - Taught Computer Science Principles to Grades 6–12, including an AP-level curriculum for Grades 9 & 10.  
+  - Introduced SRL techniques to Grade 12, focusing on goal setting, time management, and metacognition.  
+  - Incorporated PBL, Jigsaw, and peer collaboration strategies to enhance problem-solving and entrepreneurial skills.  
+
+- **Program Coordination & Research Competition Coach**  
+  - Coached China Think Big (CTB) research competition teams, achieving a national third-place award.  
+  - Led professional development sessions for faculty on digital pedagogy and classroom technology integration.  
+
+- **LMS Management & Digital Implementation**  
+  - Managed multiple e-learning platforms (Xiaobao, Gradelink, myON, and Code.org), ensuring structured digital course materials and user-friendly access.  
+  - Developed a data-driven e-portfolio system for tracking students’ weekly academic performance and feedback.  
+  - Trained faculty on e-learning tools to optimize teaching efficiency and student engagement.  
+
+### Senior Front-End Engineer | RingCentral Corp (NYSE: RNG)  
+OCT 2015 TO JUN 2020 | **[Sample of Works @ RingCentral](/ringcentral)**  
+
+- **Software Development**  
+  - Created and maintained front-end features using React.js and Angular.js for a large-scale communication platform.  
+  - Collaborated with cross-functional teams, gaining strong project management and stakeholder coordination skills.  
+
+- **Internationalization & Localization**  
+  - Implemented multi-language support (i18n), ensuring a consistent user experience across diverse markets.  
+
+#### D3 Customer Reporting (CFA)  
+*(Angular.js, PHP, Less, Scrum, Git, Intellij, Jira, D3.js, MySQL, Mercurial)*  
+  - Improved logic accuracy by creating a data analysis tool and worked with the project manager to fix data selection logic issues.  
+  - Rewrote documentation, including environment setup, deployment processes, and roadmaps.  
+  - Trained new team members and guided them on environment setup and project structure.  
+
+#### Subscription Customer Reporting  
+*(Angular.js, Jasmine, PHP Restful API)*  
+  - Created a management page UI and subscription functionality.  
+  - Delivered a Proof-of-Concept demo in two weeks under a tight schedule.  
+  - Integrated Restful APIs for subscription management and report generation.  
+
+#### Subscription Monitoring System  
+*(Kafka, Java, Rsyslog, MongoDB, Vertica DB, Jira, Scrum, Tableau)*  
+  - Developed a monitoring system for internal users to track email delivery status, reducing error occurrences by 60%.  
+  - Architected the project, processed data, and integrated system logs.  
+  - Prepared release notes and coordinated system updates with the OPS team.  
+
+### Web Developer | Citi Group (NYSE: C) | Buffalo, NY  
+APR 2014 TO JUL 2015  | **[Sample of Works @ Citi](/citibank)**  
+
+- **Web Development & Content Management**  
+  - Updated branded web content, newsletters, and emails with strict design guidelines.  
+  - Led website migrations and automated processes to save developer hours.  
+  - Set up Omniture tracking scripts for analytics and generated marketing reports.  
+
+### Web Developer | Evolving Technologies Corporation | Brooklyn, NY  
+JUL 2012 TO FEB 2014  **[Sample of Works @ ETC](/etc)**  
+
+- **3D Earthquake Data Visualization** *(Unity3D, JavaScript, Leap Motion SDK, Node.js)*  
+  - Designed a Unity 3D-based earthquake visualization using real-time USGS data.  
+  - Developed interactive elements using Leap Motion for user engagement.  
+  - The project was exhibited at the 2013 NYU-Poly Annual Research Expo.  
+
+- **ETC United** *(JavaScript, HTML, jQuery, JSPlumb.js, Gridster.js, Handsontable.js, D3.js, Node.js)*  
+  - Developed a web application for remote business negotiation and data analysis.  
+  - Designed drag-and-drop interfaces using jQuery and JSPlumb.  
+
+---
+
+## Technical Skills  
+
+- **Programming:** JavaScript, HTML5, React.js, Angular.js, Java, C#, CSS, jQuery, D3.js, PHP, Karma, Jasmine, Less, PhPUnit, Yii, Kafka, Rsyslog, MongoDB, Vertica, Spark Streaming.  
+- **Instructional Design:** Simulation-based learning, gamification, PBL.  
+- **Teaching:** Computer Science, Digital Media.  
+
+---
+
+## Academic Projects  
+
+### Polytechnic Institute of New York University | JAN 2012 TO MAY 2013  
+
+- **[3D Earthquake Data Visualization](/etc)**: Built a real-time visualization using Unity 3D and Leap Motion.  
+- **[Virtual Reality Campus Experience](/school-projects)**: Recreated NYU’s campus in Unity 3D, contributing to GUI development and sound design.  
+- **[Playful HCI: Motion-Controlled Game](/school-projects)**: Developed a Java-based game using color pens and audio cues as input.  
+- **Beyond Joystick: Accelerometer-Based Game**: Prototyped an Arduino game showcased at the 2012 New York Game Expo.  
+
+---
+
+## Other Projects  
+
+### Wedding Website & WeChat Invitation  
+
+- Designed and created a wedding site in English and Chinese using Bootstrap ([lizhien.com/marriage](http://lizhien.com/marriage)).  
+
+---
+
+## Awards & Recognitions  
+
+- **Best Presentation Award** at the International Health Professions Education Virtual Conference (2024).  
+- **CTB Official Recognized Coach** (China Think Big Competition).  
+- **Code.org Recognized Teacher** (Microsoft-led online CS teaching platform).  
+- **NYU High GPA Award** (Multiple times).  
+- **Xiamen Backbone Software Engineer**.  
+
+---
+
+## Contact  
+
+[kenli@nyu.edu](mailto:kenli@nyu.edu)  
