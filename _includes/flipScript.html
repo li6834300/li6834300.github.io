@@ -1,0 +1,27 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var words = ['Curriculum Designer', 'Researcher', 'Web Developer', 'Father', 'Husband'];
+      var index = 0;
+      var flipSpan = document.getElementById('flip-word');
+      
+      setInterval(function() {
+        // Apply the flip-out animation
+        flipSpan.classList.add('flip-out');
+        
+        setTimeout(function() {
+          // Update the word after flip-out
+          index = (index + 1) % words.length;
+          flipSpan.textContent = words[index];
+          
+          // Switch from flip-out to flip-in animation
+          flipSpan.classList.remove('flip-out');
+          flipSpan.classList.add('flip-in');
+          
+          // Remove flip-in once the animation completes
+          setTimeout(function() {
+            flipSpan.classList.remove('flip-in');
+          }, 500);
+        }, 500);
+      }, 3000);
+    });
+</script>
