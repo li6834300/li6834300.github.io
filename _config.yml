@@ -6,7 +6,14 @@
 name: Zhien Li's Work Place
 
 # Short bio or description (displayed in the header)
-description: Hi, I am a Curriculum Designer / Researcher / Web Developer / Father / Husband2
+description: Hi, I am a
+
+descriptionDetails:
+  - Curriculum Designer
+  - Researcher
+  - Web Developer
+  - Father
+  - Husband
 
 
 #

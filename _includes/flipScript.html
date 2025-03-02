@@ -1,27 +1,22 @@
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var words = ['Curriculum Designer', 'Researcher', 'Web Developer', 'Father', 'Husband'];
-      var index = 0;
-      var flipSpan = document.getElementById('flip-word');
-      
-      setInterval(function() {
-        // Apply the flip-out animation
-        flipSpan.classList.add('flip-out');
-        
+  document.addEventListener('DOMContentLoaded', function() {
+    // Convert the YAML array to a JavaScript array via jsonify.
+    var words = {{ site.descriptionDetails | jsonify }};
+    // (If needed, trim spaces here)
+    var index = 0;
+    var flipSpan = document.getElementById('flip-word');
+  
+    setInterval(function() {
+      flipSpan.classList.add('flip-out');
+      setTimeout(function() {
+        index = (index + 1) % words.length;
+        flipSpan.textContent = words[index];
+        flipSpan.classList.remove('flip-out');
+        flipSpan.classList.add('flip-in');
         setTimeout(function() {
-          // Update the word after flip-out
-          index = (index + 1) % words.length;
-          flipSpan.textContent = words[index];
-          
-          // Switch from flip-out to flip-in animation
-          flipSpan.classList.remove('flip-out');
-          flipSpan.classList.add('flip-in');
-          
-          // Remove flip-in once the animation completes
-          setTimeout(function() {
-            flipSpan.classList.remove('flip-in');
-          }, 500);
+          flipSpan.classList.remove('flip-in');
         }, 500);
-      }, 3000);
-    });
-</script>
+      }, 500);
+    }, 3000);
+  });
+  </script>
