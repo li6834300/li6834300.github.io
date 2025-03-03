@@ -35,11 +35,11 @@ My main responsibilities at Farragut Academy Dongguan included:
 
 ---
 
-### Courses Designed & Taught
+<!-- ### Courses Designed & Taught
 
 #### Introduction to Computer Science
 ![Introduction to CS]({{ site.url }}/images/projectImg/farragut_intro_cs.jpg){:class="content-img-middle"}
-- **Description:** Introduced students to basic programming, algorithmic thinking, and problem-solving.
+- **Description:** Introduced students to basic programming, algorithmic thinking, and problem-solving in Grade .
 - **Learning Materials:** [Access Course Materials](/farragut/intro-to-cs)
 
 #### Advanced Programming Concepts
@@ -62,8 +62,8 @@ My main responsibilities at Farragut Academy Dongguan included:
 - **Description:** Taught basic robotics, sensor integration, and control systems using hands-on projects.
 - **Learning Materials:** [Access Course Materials](/farragut/robotics)
 
----
+--- -->
 
-Feel free to click on the course titles for more detailed learning materials and interactive content.
+<!-- Feel free to click on the course titles for more detailed learning materials and interactive content. -->
 
 ![Farragut Academy]({{ site.url }}/images/projectImg/farragut_banner.jpg){:class="content-img-middle"}
