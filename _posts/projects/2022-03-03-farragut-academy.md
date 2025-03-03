@@ -4,7 +4,8 @@ title: "Curriculum Development & Teaching at Farragut Academy"
 author: Zhien Li
 category: projects
 tags:
-  - content: Education
+  - content: ID
+  - content: Teaching
 preview: projectImg/curriculum_design_1.jpg
 align: align-left
 urlLinks:
