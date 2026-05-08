@@ -3,6 +3,7 @@ layout: blog_post
 title: How To use Git Hub pages quickly Host web site
 author: Zhien Li
 category : blog
+lang: en
 ---
 
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.
