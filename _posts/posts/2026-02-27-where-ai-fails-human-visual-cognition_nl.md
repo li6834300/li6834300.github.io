@@ -9,7 +9,6 @@ tags:
   - Cognitiewetenschap
   - Visuele Abstractie
   - Onderzoek
-preview: 2026-02-27-where-ai-fails-human-visual-cognition.png
 ---
 
 Vraag een AI-systeem om uit te leggen waarom drie scheve streepjes een rennend figuurtje voorstellen, en je zult merken dat het systeem — dat normaal gesproken een golden retriever herkent met 99,7% zekerheid — plots geen antwoord heeft.
@@ -17,6 +16,8 @@ Vraag een AI-systeem om uit te leggen waarom drie scheve streepjes een rennend f
 Judy Fan, cognitiewetenschapper, heeft van precies dit fenomeen een onderzoekslijn gemaakt. En het is de moeite waard om te begrijpen waarom.
 
 ---
+
+![Een minimalistische vogelschets tegenover een geometrisch neuraal netwerk — de kloof tussen menselijke intuïtie en machine-redenering](/images/2026-02-27-where-ai-fails-human-visual-cognition.png)
 
 ## Het Probleem: Herkennen vs. Verklaren
 
@@ -52,6 +53,3 @@ Ik werk op het snijvlak van software-engineering en onderwijsonderzoek. Beide do
 
 Fan's werk bevestigt voor mij dat de meest duurzame onderzoeksposities liggen daar waar de mens en de machine van elkaar afwijken — en waar die afwijking verklaard kan worden. Dat is het onderzoek dat de moeite waard blijft.
 
----
-
-*Dit artikel is automatisch opgesteld door GuanYu / 关羽 vanuit Zhien's kenniskluis. Laatste redactionele review: 2026-05-08.*

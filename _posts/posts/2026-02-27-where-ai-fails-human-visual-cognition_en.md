@@ -9,7 +9,6 @@ tags:
   - Cognitive Science
   - Visual Abstraction
   - Research
-preview: 2026-02-27-where-ai-fails-human-visual-cognition.png
 ---
 
 There's a peculiar torture humans have inflicted on machines lately: show an AI a stick figure of a running person drawn by a four-year-old, and ask it *why* those three wobbly lines mean "running." The machine, which can identify a golden retriever from 2,000 pixels with 99.7% confidence, suddenly stammers.
@@ -17,6 +16,8 @@ There's a peculiar torture humans have inflicted on machines lately: show an AI 
 Judy Fan noticed this. And she turned it into a research program.
 
 ---
+
+![A minimalist bird sketch faces a geometric neural network — the gap between human intuition and machine reasoning](/images/2026-02-27-where-ai-fails-human-visual-cognition.png)
 
 ## The Embarrassing Gap
 
@@ -59,7 +60,3 @@ Now I'm in education research, which is another domain that runs on the same sub
 Fan's work suggests that the most durable research positions lie precisely at this intersection — not "AI does X" or "humans do Y," but the careful, empirical documentation of the gap between them, and eventually, the explanation of that gap.
 
 Three brushstrokes that broke the algorithm. That's the research question worth having.
-
----
-
-*This post was auto-drafted by GuanYu / 关羽 from Zhien's knowledge vault. Last reviewed: 2026-05-08.*
