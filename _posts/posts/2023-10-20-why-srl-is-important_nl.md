@@ -3,6 +3,7 @@ layout: blog_post
 title: "Van Passief naar Proactief: waarom SRL (zelfregulerend leren) ertoe doet in het AI-tijdperk"
 author: Zhien Li
 category: blog
+lang: nl
 tags:
   - SRL
   - AI

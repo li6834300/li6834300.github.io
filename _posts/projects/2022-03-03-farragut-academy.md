@@ -3,6 +3,7 @@ layout: post
 title: "Curriculum Development & Teaching at Farragut Academy"
 author: Zhien Li
 category: projects
+lang: en
 tags:
   - content: ID
   - content: Teaching

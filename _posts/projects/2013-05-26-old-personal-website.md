@@ -3,6 +3,7 @@ layout: post
 title: Old Portfolio Site
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Web Dev
 preview: projectImg/portfolio_1.jpg

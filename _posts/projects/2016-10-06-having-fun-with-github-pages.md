@@ -3,6 +3,7 @@ layout: post
 title: Having Fun With GitHub Pages
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Web Dev
 preview: projectImg/git_1.png

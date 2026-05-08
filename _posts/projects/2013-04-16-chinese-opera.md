@@ -3,6 +3,7 @@ layout: post
 title: Playbill design and video recording
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Video Produce
 preview: projectImg/chinese_opera_3.jpg

@@ -3,6 +3,7 @@ layout: post
 title: "Text to Audio Transcription with Speaker Diarization"
 author: Zhien Li
 category: projects
+lang: en
 tags:
   - content: Web Dev
   - content: AI/ML

@@ -3,6 +3,7 @@ layout: post
 title: School Projects
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Academic
 preview: projectImg/school_2.jpg

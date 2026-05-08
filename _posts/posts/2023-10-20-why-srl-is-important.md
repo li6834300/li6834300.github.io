@@ -3,6 +3,7 @@ layout: blog_post
 title: "化被动为主动：为什么 SRL（自主调节学习）在 AI 时代很重要？"
 author: Zhien Li
 category: blog
+lang: cn
 tags:
   - SRL
   - AI

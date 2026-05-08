@@ -44,6 +44,27 @@ a {
   color: #2894bc;
 }
 
+// Language switcher
+.lang-switch {
+  display: inline-block;
+  margin-left: 15px;
+  font-size: 0.8em;
+  border-left: 1px solid rgba(255,255,255,0.4);
+  padding-left: 12px;
+
+  a {
+    color: rgba(255,255,255,0.7);
+    margin: 0 3px;
+    text-decoration: none;
+    &:hover { color: #fff; }
+    &.lang-active {
+      color: #fff;
+      font-weight: bold;
+      border-bottom: 1px solid #fff;
+    }
+  }
+}
+
 .content-end-link {
   display: block;
   margin-top: 10px;

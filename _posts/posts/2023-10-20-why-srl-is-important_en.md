@@ -3,6 +3,7 @@ layout: blog_post
 title: "Turning Passivity into Proactivity: Why SRL (Self-Regulated Learning) Matters in the AI Era"
 author: Zhien Li
 category: blog
+lang: en
 tags:
   - SRL
   - AI

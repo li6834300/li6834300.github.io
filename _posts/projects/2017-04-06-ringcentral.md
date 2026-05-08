@@ -3,6 +3,7 @@ layout: post
 title: Work at RingCentral
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Front-end Dev
 preview: projectImg/rc_1.png

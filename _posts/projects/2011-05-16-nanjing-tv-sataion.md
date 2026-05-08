@@ -3,6 +3,7 @@ layout: post
 title: Nanjing TV Station Projects
 author: Zhien Li
 category: projects
+lang: en
 tags:
     - content: Video produce
 preview: projectImg/station_2.jpg
