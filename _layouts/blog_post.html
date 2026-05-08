@@ -3,8 +3,15 @@ layout: myBlogs
 ---
 
 <article class="post">
- <div class="space-extra-small">
- </div>
+
+  {% if page.preview %}
+  <div class="post-banner">
+    <img src="{{ site.baseurl }}/images/{{ page.preview }}" alt="{{ page.title }}" class="post-banner-img" />
+  </div>
+  {% endif %}
+
+  <div class="space-extra-small">
+  </div>
 
   <div class="entry">
     {{ content }}
