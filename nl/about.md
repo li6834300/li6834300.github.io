@@ -116,6 +116,18 @@ Li, Z., et al. (onder review). <em>How feedback discussions influence medical st
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">Workshopbegeleider — "AI in curriculumontwerp: de positie van de mens" | Hoger onderwijs</span>
+  <span class="experience-date">2025 – HEDEN</span>
+</div>
+<ul>
+<li>Meermaals een docentprofessionaliseringsworkshop ontworpen en gegeven over AI als onderzoeks- en ontwerppartner in plaats van een inhoudelijke kortere weg, met de mens in de leiding.</li>
+<li>Een volledige casus gedemonstreerd: het co-ontwerpen van een authentieke, jigsaw-gebaseerde medische leerinterventie waarbij AI de casusnarratief, scripts en multimedia opstelde en een domeinexpert verfijnde op nauwkeurigheid — wat de werklast van de expert sterk verminderde.</li>
+<li>Onderwerpen: taakopdeling, iteratieve verfijning, AI-gebruik met de mens in de leiding, en generatieve-AI-geletterdheid voor docenten.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">CS-docent / LMS-beheerder / Coördinator | Farragut Academy Dongguan</span>
   <span class="experience-date">JUNI 2020 – JUNI 2022</span>
 </div>

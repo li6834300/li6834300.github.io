@@ -124,6 +124,18 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">工作坊讲师 ——《AI 系统融入课程设计：人的位置》 | 高等教育</span>
+  <span class="experience-date">2025年至今</span>
+</div>
+<ul>
+<li>多次设计并主讲面向高校教师的工作坊，主张把 AI 当作研究与设计的伙伴，而非内容捷径，并始终让人主导。</li>
+<li>以完整案例演示：协同设计一堂基于拼图法的真实医学学习干预——由 AI 起草病例叙事、脚本与多媒体，再由领域专家校准准确性，大幅减轻专家工作量。</li>
+<li>核心议题：任务拆解、迭代打磨、人在主导位的 AI 使用、面向教育者的生成式 AI 素养。</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">计算机教师 / LMS管理员 / 教学协调员 | 东莞海军上将法拉格特学院</span>
   <span class="experience-date">2020年6月至2022年6月</span>
 </div>

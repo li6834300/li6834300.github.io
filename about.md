@@ -279,6 +279,18 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">WORKSHOP FACILITATOR — "AI IN CURRICULUM DESIGN: THE POSITION OF HUMANS" | HIGHER EDUCATION</span>
+  <span class="experience-date">2025 – PRESENT</span>
+</div>
+<ul>
+<li>Designed and delivered (multiple times) a faculty-development workshop on using AI as a research-and-design partner rather than a content shortcut, keeping the human in the lead.</li>
+<li>Demonstrated an end-to-end case: co-designing an authentic, jigsaw-based medical learning intervention where AI drafted the case narrative, scripts, and multimedia while a domain expert refined for conceptual accuracy — substantially reducing expert workload.</li>
+<li>Themes: task decomposition, iterative refinement, human-in-the-lead AI use, and GenAI literacy for educators.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">CS TEACHER, LMS MANAGER, COORDINATOR | FARRAGUT ACADEMY DONGGUAN</span>
   <span class="experience-date">JUN 2020 TO JUN 2022</span>
 </div>
