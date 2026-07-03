@@ -291,6 +291,17 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">COURSE DESIGNER & TUTOR | BACHELOR COURSES, MAASTRICHT UNIVERSITY</span>
+  <span class="experience-date">2024 – 2025</span>
+</div>
+<ul>
+<li>Co-designed and tutored the bachelor course <em>Personalized Medicine and Cancer Treatment</em> (2024): case-based learning and small-group tutoring on clinical reasoning and decision-making with patient cases; feedback highlighted structured activities, clear guidance, and useful interactive case discussions.</li>
+<li>Co-designed and tutored the bachelor course <em>Health & Biology</em> (2025): case- and project-based learning integrating biological concepts with health-related problem-solving; feedback valued the interactive design and active application of theory.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">CS TEACHER, LMS MANAGER, COORDINATOR | FARRAGUT ACADEMY DONGGUAN</span>
   <span class="experience-date">JUN 2020 TO JUN 2022</span>
 </div>
@@ -301,6 +312,18 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <li>Incorporated PBL, gig saw and peer collaboration strategies, helping students develop problem-solving and entrepreneurial skills.</li>
 <li>Coached China Think Big (CTB) research competition teams, achieving a national third-place award.</li>
 <li>Managed various digital learning platforms (Xiaobao, Gradelink, myON, and Code.org) and developed data-driven e-portfolio systems for academic tracking.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">MAIN LECTURER, WEB-BASED APPLICATION DEVELOPMENT | GUIYANG NORMAL COLLEGE</span>
+  <span class="experience-date">2021</span>
+</div>
+<ul>
+<li>Taught an undergraduate Web-based Application Development course (~30 students) as main lecturer.</li>
+<li>Project-based course with hands-on labs and iterative assignments: HTML/CSS/JavaScript, basic system architecture, and applied problem-solving.</li>
+<li>Course feedback emphasized the integrated project and the alignment between theory and implementation.</li>
 </ul>
 </div>
 
@@ -382,6 +405,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <li><strong>Languages</strong>: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL, Mongo.</li>
 <li><strong>Frameworks & Libraries</strong>: React.js, Angular.js, Vue.js, Node.js, Flask</li>
 <li><strong>Tools</strong>: Git, Webpack, Docker, Jira, CI/CD</li>
+<li><strong>Testing & QA</strong>: TDD, Jest, Karma, Selenium; unit / integration / end-to-end test automation; CI/CD quality validation</li>
 <li><strong>Specialties</strong>: Front-end architecture, i18n, UX prototyping, AI-assisted tools, Web performance optimization</li>
 <li><strong>Other</strong>: Unity3D, Data visualization, LMS integrations, EdTech product design</li>
 </ul>
@@ -413,6 +437,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <li>Implemented global internationalization (i18n) infrastructure enabling multi-market product release.</li>
 <li>Collaborated with designers, backend teams, and product managers across distributed teams with Scrum flow.</li>
 <li>Improved UI performance and reduced load time through code splitting and caching strategies.</li>
+<li>Drove test automation within a TDD workflow: Jest unit-test coverage standards in the modular React architecture, automated pipeline and release validation, and cross-team debugging and issue triage.</li>
 </ul>
 </div>
 

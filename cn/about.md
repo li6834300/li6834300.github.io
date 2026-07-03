@@ -136,6 +136,17 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">课程设计者与导师 | 马斯特里赫特大学本科课程</span>
+  <span class="experience-date">2024年至2025年</span>
+</div>
+<ul>
+<li>共同设计并辅导本科课程《个性化医疗与癌症治疗》（2024）：案例式学习与小组辅导，围绕病例开展临床推理与决策训练；课程反馈肯定了结构化活动与互动式病例讨论。</li>
+<li>共同设计并辅导本科课程《健康与生物学》（2025）：案例与项目式学习，将生物学概念与健康问题解决相结合；反馈认可其互动设计与理论的实际应用。</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">计算机教师 / LMS管理员 / 教学协调员 | 东莞海军上将法拉格特学院</span>
   <span class="experience-date">2020年6月至2022年6月</span>
 </div>
@@ -144,6 +155,18 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <li>向12年级学生引入自主调节学习（SRL）技术，涵盖目标设定、时间管理与元认知</li>
 <li>融入项目式学习（PBL）与同伴协作策略，培育学生问题解决与创业思维</li>
 <li>指导全国青少年科学研究竞赛（CTB）团队，荣获全国三等奖</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">主讲教师 · Web应用开发课程 | Guiyang Normal College（贵阳）</span>
+  <span class="experience-date">2021年</span>
+</div>
+<ul>
+<li>作为主讲教师，为约30名本科生讲授Web应用开发课程。</li>
+<li>项目制课程，配合实操实验与迭代作业：HTML/CSS/JavaScript、基础系统架构与应用型问题解决。</li>
+<li>课程反馈肯定了综合项目设计以及理论与实现的紧密结合。</li>
 </ul>
 </div>
 
@@ -203,6 +226,7 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <li><strong>编程语言</strong>：JavaScript (ES6+)、TypeScript、Python、HTML5、CSS3、SQL、MongoDB</li>
 <li><strong>框架与库</strong>：React.js、Angular.js、Vue.js、Node.js、Flask</li>
 <li><strong>工具链</strong>：Git、Webpack、Docker、Jira、CI/CD</li>
+<li><strong>测试与质量</strong>：TDD、Jest、Karma、Selenium；单元/集成/端到端自动化测试；CI/CD质量验证</li>
 <li><strong>专项能力</strong>：前端架构、国际化（i18n）、UX原型设计、AI辅助工具、Web性能优化</li>
 <li><strong>其他</strong>：Unity3D、数据可视化、LMS集成、教育科技产品设计</li>
 </ul>
@@ -233,6 +257,7 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <li>基于React.js构建大型模块化代码库中的复杂UI组件</li>
 <li>搭建全球国际化（i18n）基础设施，支持多市场产品发布</li>
 <li>采用Scrum工作流，与设计师、后端团队及产品经理跨地域协作</li>
+<li>在TDD流程中推进测试自动化：模块化React架构下的Jest单元测试覆盖标准、自动化流水线与发布验证、跨团队调试与问题分诊</li>
 </ul>
 </div>
 

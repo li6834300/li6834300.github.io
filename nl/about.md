@@ -128,6 +128,17 @@ Li, Z., et al. (onder review). <em>How feedback discussions influence medical st
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">Cursusontwerper & Tutor | Bacheloronderwijs, Universiteit Maastricht</span>
+  <span class="experience-date">2024 – 2025</span>
+</div>
+<ul>
+<li>Bachelorcursus <em>Personalized Medicine and Cancer Treatment</em> (2024) mede-ontworpen en getutord: casusgebaseerd leren en kleinschalige groepsbegeleiding rond klinisch redeneren en besluitvorming met patiëntcasussen.</li>
+<li>Bachelorcursus <em>Health & Biology</em> (2025) mede-ontworpen en getutord: casus- en projectgebaseerd leren waarin biologische concepten worden gekoppeld aan gezondheidsgerelateerde vraagstukken.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">CS-docent / LMS-beheerder / Coördinator | Farragut Academy Dongguan</span>
   <span class="experience-date">JUNI 2020 – JUNI 2022</span>
 </div>
@@ -137,6 +148,18 @@ Li, Z., et al. (onder review). <em>How feedback discussions influence medical st
 <li>PBL- en samenwerkingsstrategieën ingezet voor probleemoplossend en ondernemend denken</li>
 </ul>
 </div>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">Hoofddocent, Web-based Application Development | Guiyang Normal College (CN)</span>
+  <span class="experience-date">2021</span>
+</div>
+<ul>
+<li>Universitaire cursus webapplicatieontwikkeling gedoceerd aan ca. 30 bachelorstudenten.</li>
+<li>Projectgebaseerde opzet met practica en iteratieve opdrachten: HTML/CSS/JavaScript, basisarchitectuur en toegepast probleemoplossen.</li>
+</ul>
+</div>
+
 
 <div class="experience-item">
 <div class="experience-header">
@@ -181,6 +204,7 @@ Li, Z., et al. (onder review). <em>How feedback discussions influence medical st
 <li><strong>Talen</strong>: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL, MongoDB</li>
 <li><strong>Frameworks</strong>: React.js, Angular.js, Vue.js, Node.js, Flask</li>
 <li><strong>Tools</strong>: Git, Webpack, Docker, Jira, CI/CD</li>
+<li><strong>Testen & QA</strong>: TDD, Jest, Karma, Selenium; unit-/integratie-/end-to-end-testautomatisering; CI/CD-kwaliteitsvalidatie</li>
 <li><strong>Specialisaties</strong>: Front-end architectuur, i18n, UX-prototyping, AI-tools, webperformance</li>
 <li><strong>Overig</strong>: Unity3D, datavisualisatie, LMS-integraties, EdTech-productontwerp</li>
 </ul>
@@ -210,6 +234,7 @@ Li, Z., et al. (onder review). <em>How feedback discussions influence medical st
 <li>Complexe UI-componenten gebouwd met React.js in een grote modulaire codebase</li>
 <li>Globale i18n-infrastructuur geïmplementeerd voor meertalige productreleases</li>
 <li>Samengewerkt met ontwerpers, back-endteams en productmanagers in Scrum-verband</li>
+<li>Testautomatisering aangestuurd binnen een TDD-workflow: Jest-unittestdekking in de modulaire React-architectuur, geautomatiseerde pipelines en releasevalidatie</li>
 </ul>
 </div>
 
