@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Whisper AI Platform architecture: CI/CD over OIDC into a Kubernetes cluster with a CPU pool and a scale-to-zero GPU pool, calling Azure AI services">
+  <defs>
+    <style>
+      .bg { fill: #f3f6f9; }
+      .card { fill: #ffffff; stroke: #e3e8ef; stroke-width: 1.5; }
+      .lane { fill: #f8fafc; stroke: #e3e8ef; stroke-width: 1.5; }
+      .accent { fill: #e7f2fb; stroke: #0f7cc0; stroke-width: 1.5; }
+      .gpu { fill: #fbf0dc; stroke: #b5730f; stroke-width: 1.5; }
+      .t { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; fill: #0d1622; }
+      .m { font-family: ui-monospace, "SF Mono", Menlo, monospace; fill: #6b7788; }
+      .ac { fill: #0f7cc0; }
+      .gc { fill: #b5730f; }
+      .arrow { stroke: #9aa7b8; stroke-width: 1.6; fill: none; }
+    </style>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 z" fill="#9aa7b8"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="800" height="500"/>
+
+  <!-- title -->
+  <text class="m" x="40" y="46" font-size="13" letter-spacing="2.4">AI PLATFORM ENGINEERING · AZURE</text>
+  <text class="t" x="40" y="82" font-size="27" font-weight="700">Whisper AI Platform</text>
+
+  <!-- delivery lane -->
+  <rect class="lane" x="40" y="110" width="720" height="86" rx="10"/>
+  <text class="m" x="56" y="132" font-size="11" letter-spacing="1.6">DELIVERY — NO SECRETS</text>
+  <rect class="card" x="56" y="142" width="150" height="40" rx="7"/>
+  <text class="t" x="70" y="167" font-size="13" font-weight="600">GitHub Actions</text>
+  <rect class="accent" x="222" y="142" width="150" height="40" rx="7"/>
+  <text class="t" x="236" y="167" font-size="13" font-weight="600">OIDC → Entra ID</text>
+  <rect class="card" x="388" y="142" width="130" height="40" rx="7"/>
+  <text class="t" x="402" y="167" font-size="13" font-weight="600">ACR</text>
+  <rect class="card" x="534" y="142" width="210" height="40" rx="7"/>
+  <text class="t" x="548" y="167" font-size="13" font-weight="600">gated deploy → AKS</text>
+  <path class="arrow" d="M206,162 L220,162" marker-end="url(#a)"/>
+  <path class="arrow" d="M372,162 L386,162" marker-end="url(#a)"/>
+  <path class="arrow" d="M518,162 L532,162" marker-end="url(#a)"/>
+
+  <!-- cluster -->
+  <rect class="lane" x="40" y="216" width="720" height="140" rx="10"/>
+  <text class="m" x="56" y="238" font-size="11" letter-spacing="1.6">AKS — MIXED NODE POOLS</text>
+
+  <rect class="accent" x="56" y="250" width="330" height="90" rx="8"/>
+  <text class="m" x="72" y="272" font-size="10.5" letter-spacing="1.2" fill="#0f7cc0">CPU POOL · ALWAYS ON</text>
+  <text class="t" x="72" y="296" font-size="15" font-weight="650">whisper-api</text>
+  <text class="m" x="72" y="318" font-size="11.5">tiny · base · small — identity-gated</text>
+
+  <rect class="gpu" x="410" y="250" width="334" height="90" rx="8"/>
+  <text x="426" y="272" font-size="10.5" letter-spacing="1.2" class="m" fill="#b5730f">GPU POOL · SCALE 0→1</text>
+  <text class="t" x="426" y="296" font-size="15" font-weight="650">whisper-gpu</text>
+  <text class="m" x="426" y="318" font-size="11.5">large-v3 on a T4 — premium tier only</text>
+
+  <path class="arrow" d="M386,295 L408,295" marker-end="url(#a)"/>
+
+  <!-- ai services -->
+  <rect class="lane" x="40" y="376" width="720" height="86" rx="10"/>
+  <text class="m" x="56" y="398" font-size="11" letter-spacing="1.6">AI BUILDING BLOCKS — WORKLOAD IDENTITY, KEYLESS</text>
+  <rect class="card" x="56" y="408" width="216" height="40" rx="7"/>
+  <text class="t" x="70" y="433" font-size="13" font-weight="600">Foundry · gpt-5-mini</text>
+  <rect class="card" x="288" y="408" width="216" height="40" rx="7"/>
+  <text class="t" x="302" y="433" font-size="13" font-weight="600">AI Search · RAG</text>
+  <rect class="card" x="520" y="408" width="224" height="40" rx="7"/>
+  <text class="t" x="534" y="433" font-size="13" font-weight="600">App Insights · cost</text>
+</svg>

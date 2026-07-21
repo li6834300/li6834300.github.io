@@ -1,0 +1,18 @@
+{% comment %}
+  One project card. Shared by the EN / CN / NL project listings so the markup
+  stays in one place.
+  Params: include.project (a project post), include.more (button label).
+{% endcomment %}
+<article class="post">
+  <div class="image {{ include.project.align }}"><img src="{{ site.baseurl }}/images/{{ include.project.preview }}"></div>
+  <div class="entry">
+    <h1><a href="{{ site.baseurl }}{{ include.project.url }}">
+      <span class="tags">[{% for tag in include.project.tags %}{{ tag.content }}{% if forloop.last == false %}, {% endif %}{% endfor %}]</span>
+      {{ include.project.title }}</a></h1>
+    {{ include.project.excerpt }}
+  </div>
+  {% for url in include.project.urlLinks %}
+    <a href="{{ url.url }}" class="project-base-footer"> {{ url.name }}</a>
+  {% endfor %}
+  <a href="{{ site.baseurl }}{{ include.project.url }}" class="button button-primary">{{ include.more }}</a>
+</article>

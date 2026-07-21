@@ -6,40 +6,23 @@ permalink: /nl/
 ---
 
 <div class="posts projects">
+  {% comment %}
+    Eerst de projecten met een Nederlandse versie, daarna de nog niet vertaalde
+    Engelse projecten — zo verdwijnt er niets van deze pagina zodra er één
+    vertaling bijkomt. Vertalingen worden gekoppeld via `ref` in de front matter.
+  {% endcomment %}
   {% assign nl_projects = site.categories.projects | where: "lang", "nl" %}
-  {% if nl_projects.size > 0 %}
-    {% for project in nl_projects %}
-      <article class="post">
-        <div class="image {{project.align}}"><img src="{{ site.baseurl }}/images/{{project.preview}}"></div>
-        <div class="entry">
-          <h1><a href="{{ site.baseurl }}{{ project.url }}">
-            <span class="tags">[{% for tag in project.tags %}{{tag.content}}{% if forloop.last == false %}, {% endif %}{% endfor %}]</span>
-            {{ project.title }}</a></h1>
-          {{ project.excerpt }}
-        </div>
-        {% for url in project.urlLinks %}
-          <a href="{{ url.url }}" class="project-base-footer"> {{ url.name }}</a>
-        {% endfor %}
-        <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">Lees meer</a>
-      </article>
-    {% endfor %}
-  {% else %}
-    {% for project in site.categories.projects %}
-      <article class="post">
-        <div class="image {{project.align}}"><img src="{{ site.baseurl }}/images/{{project.preview}}"></div>
-        <div class="entry">
-          <h1><a href="{{ site.baseurl }}{{ project.url }}">
-            <span class="tags">[{% for tag in project.tags %}{{tag.content}}{% if forloop.last == false %}, {% endif %}{% endfor %}]</span>
-            {{ project.title }}</a></h1>
-          {{ project.excerpt }}
-        </div>
-        {% for url in project.urlLinks %}
-          <a href="{{ url.url }}" class="project-base-footer"> {{ url.name }}</a>
-        {% endfor %}
-        <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">Lees meer</a>
-      </article>
-    {% endfor %}
-  {% endif %}
+  {% assign translated_refs = nl_projects | map: "ref" | join: "," %}
+  {% for project in nl_projects %}
+    {% include project_card.html project=project more="Bekijk details" %}
+  {% endfor %}
+  {% for project in site.categories.projects %}
+    {% if project.lang == "en" %}
+      {% unless project.ref and translated_refs contains project.ref %}
+        {% include project_card.html project=project more="Bekijk details" %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
 </div>
 
 ## Neem contact op

@@ -4,26 +4,10 @@ title: Projects
 ---
 
 <div class="posts projects">
-  {% for project in site.categories.projects %}
-    <article class="post">
-
-
-    <div class="image {{project.align}}"><img src="{{ site.baseurl }}/images/{{project.preview}}"></div>
-      <div class="entry">
-      <h1><a href="{{ site.baseurl }}{{ project.url }}"> <span class="tags">[{% for tag in project.tags %}{{tag.content}}{% if forloop.last == false %},
-                                                                                                                         {% endif %}{% endfor %}]</span>
-      {{ project.title }}</a></h1>
-        {{ project.excerpt }}
-
-
-      </div>
-
-      {% for url in project.urlLinks %}
-        <a href="{{ url.url }}" class="project-base-footer"> {{ url.name }}</a>
-      {% endfor %}
-
-      <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">Read More</a>
-    </article>
+  {% comment %} Only English projects here; /cn and /nl list their own. {% endcomment %}
+  {% assign projects = site.categories.projects | where: "lang", "en" %}
+  {% for project in projects %}
+    {% include project_card.html project=project more="Read More" %}
   {% endfor %}
 </div>
 
