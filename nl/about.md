@@ -70,6 +70,7 @@ permalink: /nl/about/
 </div>
 <ul>
 <li><strong>Vakken</strong>: Game design, HCI/UX, mediastudies, webontwikkeling, video voor nieuwe media</li>
+<li><strong>Masterscriptie</strong>: <em>Interactive 3D Earthquake Data Visualization</em> (opgenomen in de bibliotheekcollectie van New York University): realtime visualisatie van live USGS-aardbevingsdata in Unity 3D, te navigeren met joystick en Leap Motion-gebaren.</li>
 </ul>
 </div>
 
@@ -91,10 +92,13 @@ permalink: /nl/about/
 Li, Z., et al. (2024). <em>Perception of enhanced learning in medicine through integration of VPs.</em> <strong>BMC Medical Education.</strong>
 </div>
 <div class="publication-item">
-Li, Z., et al. (onder review). <em>Enhancing Clinical Reasoning with VPs: The Role of "What-If" Discussions.</em> <strong>Medical Education</strong>
+Li, Z., et al. (2026, in press). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
 </div>
 <div class="publication-item">
 Li, Z., et al. (onder review). <em>How feedback discussions influence medical students' clinical reasoning skill.</em> <strong>Medical Teacher</strong>
+</div>
+<div class="publication-item">
+Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer dialogue: An intervention in Biology and Health.</em>
 </div>
 <p>Nog 5 publicaties beschikbaar via ORCID: <a href="https://orcid.org/0009-0007-2223-8940">https://orcid.org/0009-0007-2223-8940</a></p>
 

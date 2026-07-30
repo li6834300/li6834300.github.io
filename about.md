@@ -223,6 +223,7 @@ permalink: /about/
 </div>
 <ul>
 <li><strong>Key coursework</strong>: Game Design, HCI/User Experience, Media Study, Web Development, Video for New Media.</li>
+<li><strong>Thesis</strong>: <em>Interactive 3D Earthquake Data Visualization</em> (held in the New York University Library collection): real-time visualization of live USGS seismic data in Unity 3D, navigated by joystick and Leap Motion gestures.</li>
 </ul>
 </div>
 
@@ -245,7 +246,7 @@ Li, Z., et al. (2024). <em>Perception of enhanced learning in medicine through i
 </div>
 
 <div class="publication-item">
-Li, Z., et al. (under review). <em>Enhancing Clinical Reasoning with VPs: The Role of "What-If" Discussions.</em> <strong>Medical Education</strong>
+Li, Z., et al. (2026, in press). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
 </div>
 
 <div class="publication-item">
@@ -512,6 +513,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 </div>
 <ul>
 <li><strong>Key coursework</strong>: Game Design, HCI/User Experience, Media Study, Web Development, Video for New Media.</li>
+<li><strong>Thesis</strong>: <em>Interactive 3D Earthquake Data Visualization</em> (held in the New York University Library collection): real-time visualization of live USGS seismic data in Unity 3D, navigated by joystick and Leap Motion gestures.</li>
 </ul>
 </div>
 

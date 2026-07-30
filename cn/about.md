@@ -72,6 +72,7 @@ permalink: /cn/about/
 </div>
 <ul>
 <li><strong>核心课程</strong>：游戏设计、人机交互/用户体验、媒体研究、Web开发、新媒体视频</li>
+<li><strong>硕士论文</strong>：《交互式三维地震数据可视化》（收录于纽约大学图书馆）：在 Unity 3D 中实时呈现 USGS 实时地震数据，支持手柄与 Leap Motion 手势导航</li>
 </ul>
 </div>
 
@@ -93,7 +94,7 @@ permalink: /cn/about/
 Li, Z., 等 (2024). <em>通过虚拟病人整合提升医学学习感知。</em> <strong>BMC Medical Education。</strong>
 </div>
 <div class="publication-item">
-Li, Z., 等 (审稿中). <em>以虚拟病人强化临床推理："假如"讨论的作用。</em> <strong>Medical Education</strong>
+Li, Z., 等 (2026，印刷中). <em>确保知识迁移："假如"讨论在虚拟病人仿真教学中的关键作用。</em> <strong>Perspectives on Medical Education。</strong> DOI: 10.5334/pme.2363
 </div>
 <div class="publication-item">
 Li, Z., 等 (审稿中). <em>反馈讨论如何影响医学生临床推理能力。</em> <strong>Medical Teacher</strong>
