@@ -205,12 +205,14 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 
 <h2>Vaardigheden</h2>
 <ul>
-<li><strong>Talen</strong>: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL, MongoDB</li>
+<li><strong>Talen</strong>: JavaScript (ES6+), TypeScript, Python, PowerShell, HTML5, CSS3, SQL, MongoDB</li>
 <li><strong>Frameworks</strong>: React.js, Angular.js, Vue.js, Node.js, Flask</li>
 <li><strong>Tools</strong>: Git, Webpack, Docker, Jira, CI/CD</li>
+<li><strong>Cloud &amp; platform</strong>: Azure (AKS, Bicep, Entra ID workload identity, Databricks en PySpark), Kubernetes, GitHub Actions CI/CD via OIDC, AWS, Heroku, Vercel; Terraform op werkniveau.</li>
 <li><strong>Testen & QA</strong>: TDD, Jest, Karma, Selenium; unit-/integratie-/end-to-end-testautomatisering; CI/CD-kwaliteitsvalidatie</li>
 <li><strong>Specialisaties</strong>: Front-end architectuur, i18n, UX-prototyping, AI-tools, webperformance</li>
 <li><strong>Overig</strong>: Unity3D, datavisualisatie, LMS-integraties, EdTech-productontwerp</li>
+<li><strong>Eigen platformproject</strong>: een self-service AI-transcriptieplatform op Azure. De applicatie is bewust eenvoudig gehouden, zodat het platform eronder het eigenlijke werk was: AKS met gescheiden CPU- en GPU-workloads, Bicep als IaC-laag, Entra ID workload identity voor authenticatie zonder sleutels, CI/CD met GitHub Actions, monitoring, governance en kostenbeheersing.</li>
 </ul>
 
 <hr>

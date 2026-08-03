@@ -224,12 +224,14 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 
 <h2>技能与专长</h2>
 <ul>
-<li><strong>编程语言</strong>：JavaScript (ES6+)、TypeScript、Python、HTML5、CSS3、SQL、MongoDB</li>
+<li><strong>编程语言</strong>：JavaScript (ES6+)、TypeScript、Python、PowerShell、HTML5、CSS3、SQL、MongoDB</li>
 <li><strong>框架与库</strong>：React.js、Angular.js、Vue.js、Node.js、Flask</li>
 <li><strong>工具链</strong>：Git、Webpack、Docker、Jira、CI/CD</li>
+<li><strong>云与平台</strong>：Azure（AKS、Bicep、Entra ID 工作负载身份、Databricks 与 PySpark）、Kubernetes、基于 OIDC 的 GitHub Actions CI/CD、AWS、Heroku、Vercel；Terraform 为可用水平。</li>
 <li><strong>测试与质量</strong>：TDD、Jest、Karma、Selenium；单元/集成/端到端自动化测试；CI/CD质量验证</li>
 <li><strong>专项能力</strong>：前端架构、国际化（i18n）、UX原型设计、AI辅助工具、Web性能优化</li>
 <li><strong>其他</strong>：Unity3D、数据可视化、LMS集成、教育科技产品设计</li>
+<li><strong>个人平台项目</strong>：Azure 上的自助式 AI 转写平台。应用层刻意做得简单，真正的工作在底层平台：AKS 上分离的 CPU 与 GPU 工作负载、以 Bicep 编写的基础设施即代码、Entra ID 工作负载身份实现免密钥认证、GitHub Actions 持续集成与部署，以及监控、治理与成本控制。</li>
 </ul>
 
 <hr>

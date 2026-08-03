@@ -403,9 +403,10 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <h2>Skills & Expertise</h2>
 
 <ul>
-<li><strong>Languages</strong>: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL, Mongo.</li>
+<li><strong>Languages</strong>: JavaScript (ES6+), TypeScript, Python, PowerShell, HTML5, CSS3, SQL, Mongo.</li>
 <li><strong>Frameworks & Libraries</strong>: React.js, Angular.js, Vue.js, Node.js, Flask</li>
 <li><strong>Tools</strong>: Git, Webpack, Docker, Jira, CI/CD</li>
+<li><strong>Cloud &amp; Platform</strong>: Azure (AKS, Bicep, Entra ID workload identity, Databricks &amp; PySpark), Kubernetes, GitHub Actions CI/CD over OIDC, AWS, Heroku, Vercel; Terraform at working-knowledge level.</li>
 <li><strong>Testing & QA</strong>: TDD, Jest, Karma, Selenium; unit / integration / end-to-end test automation; CI/CD quality validation</li>
 <li><strong>Specialties</strong>: Front-end architecture, i18n, UX prototyping, AI-assisted tools, Web performance optimization</li>
 <li><strong>Other</strong>: Unity3D, Data visualization, LMS integrations, EdTech product design</li>
@@ -472,6 +473,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <ul>
 <li><strong>Overstep</strong>, an AI based language learning tool. Fully self-developed, allow user to learn any language from any mother tone.</li>
+<li><strong>Self-service AI transcription platform on Azure</strong>. A platform-engineering build where the application was kept deliberately simple so the infrastructure underneath was the real work: AKS with separate CPU and GPU workloads, Bicep as the IaC layer, Entra ID workload identity for keyless authentication, GitHub Actions CI/CD, monitoring, governance and cost controls.</li>
 <li>Several game developments with Unity and RPG Maker.</li>
 <li>Build websites, brand with help of AI (go to <a href="https://lizhien.me/">https://lizhien.me/</a> to see works)</li>
 </ul>
