@@ -13,8 +13,6 @@ tags:
 preview: 2026-06-29-ai-as-design-partner-human-in-the-lead.png
 ---
 
-![PLACEHOLDER: a person seated as lead designer with AI tools as floating helpers around them — flat design, purple/white, human-in-the-lead — GuanYu could not generate automatically (OpenAI billing hard limit reached; dall-e-3 deprecated)]()
-
 每一种新技术诞生时，都会附赠一个幻觉，而生成式 AI 继承了其中最诱人的那一个：自动贩卖机的幻觉。你投进去一段提示词，掉出来一个成品，中间那段名叫"思考"的、麻烦又不体面的人类劳动，就被悄悄取消了。人们老爱这么谈 AI——把它说成一台"替你干活"的机器。我现在越来越确信这是个彻头彻尾的误会，其荒谬程度，大约相当于以为你的胃是"替你"吃饭的。严格说它确实在替你消化，可你总还得自己决定吃什么。而吃什么这件事，恰恰是全部的赌注所在。
 
 我明白这个道理，不是靠读什么宣言，而是被一个我一个人解决不了的问题逼出来的。我是个学习科学的研究者，不是医生。我要设计一堂课，核心是一个复杂的病人案例——一个拼图式的练习，学生得从好几个学科的角度，把对这个病例的理解一块块拼起来。麻烦在于：一个可信的医学案例是没法蒙混的。细节错一个，整件事就塌成了过家家，而学生这种生物，鼻子灵得很，一闻就知道。搁几年前，我的选项只有两个：花几个月把自己训练成一个蹩脚版医生，或者请一位真医生来，然后把人家海量的时间一口口吃掉。两个我都付不起。

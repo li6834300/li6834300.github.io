@@ -13,8 +13,6 @@ tags:
 preview: 2026-06-29-ai-as-design-partner-human-in-the-lead.png
 ---
 
-![PLACEHOLDER: a person seated as lead designer with AI tools as floating helpers around them — flat design, purple/white, human-in-the-lead — GuanYu could not generate automatically (OpenAI billing hard limit reached; dall-e-3 deprecated)]()
-
 Bij elke nieuwe technologie hoort een fantasie, en generatieve AI heeft de meest verleidelijke geërfd: die van de automaat. Je stopt er een prompt in, er komt een afgewerkt product uit, en het rommelige menselijke werk dat we "denken" noemen is er stilletjes tussenuit gevallen. Mensen praten zo over AI — als een machine die "het werk doet". Ik ben er steeds meer van overtuigd dat dit precies de verkeerde manier van kijken is. AI verteert misschien de taak, maar jij moet nog altijd beslissen wát je eet. En die beslissing is het hele spel.
 
 Ik leerde dit niet uit een manifest, maar uit een probleem dat ik alleen niet kon oplossen. Ik ben leerwetenschapper, geen arts. Ik ontwierp een lesinterventie rond een complexe patiëntcasus — een jigsaw-oefening waarin studenten medisch begrip vanuit meerdere disciplines moesten samenbrengen. Het probleem: een geloofwaardige medische casus laat zich niet faken. Eén fout detail en het geheel stort in tot toneel, en studenten ruiken dat onmiddellijk. Een paar jaar geleden had ik twee opties gehad: maandenlang een slechtere versie van een arts worden, of een expert inhuren en enorm veel van zijn tijd opsouperen. Geen van beide kon.

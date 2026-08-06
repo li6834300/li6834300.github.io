@@ -13,8 +13,6 @@ tags:
 preview: 2026-06-29-ai-as-design-partner-human-in-the-lead.png
 ---
 
-![PLACEHOLDER: a person seated as lead designer with AI tools as floating helpers around them — flat design, purple/white, human-in-the-lead — GuanYu could not generate automatically (OpenAI billing hard limit reached; dall-e-3 deprecated)]()
-
 There is a particular fantasy that arrives with every new technology, and generative AI has inherited the most seductive version of it: the fantasy of the vending machine. You insert a prompt, you receive a finished thing, and somewhere in between the messy human labor of thinking has been quietly abolished. People talk about AI this way constantly — as a machine that *does the work* — and I have come to believe this is precisely the wrong way to think about it, in roughly the way that believing your stomach digests food *for* you is wrong. It does, technically. But you still have to decide what to eat, and that turns out to be the entire game.
 
 I learned this not from a manifesto but from a problem I could not solve alone. I am a learning scientist, not a physician. I was designing a classroom intervention built around a complex patient case — a jigsaw exercise where students had to assemble medical understanding from multiple disciplinary angles. The trouble is that a credible medical case cannot be faked. Get a detail wrong and the whole thing collapses into theater, and students, who have functioning trap-detectors, will smell it immediately. A few years ago my options would have been: spend months becoming a worse version of a doctor, or hire one and consume an enormous quantity of an expert's time. Neither was available.
