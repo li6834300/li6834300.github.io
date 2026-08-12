@@ -246,7 +246,7 @@ Li, Z., et al. (2024). <em>Perception of enhanced learning in medicine through i
 </div>
 
 <div class="publication-item">
-Li, Z., et al. (2026, in press). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
+Li, Z., et al. (2026). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
 </div>
 
 <div class="publication-item">
@@ -296,8 +296,8 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
   <span class="experience-date">2024 – 2025</span>
 </div>
 <ul>
-<li>Co-designed and tutored the bachelor course <em>Personalized Medicine and Cancer Treatment</em> (2024): case-based learning and small-group tutoring on clinical reasoning and decision-making with patient cases; feedback highlighted structured activities, clear guidance, and useful interactive case discussions.</li>
-<li>Co-designed and tutored the bachelor course <em>Health & Biology</em> (2025): case- and project-based learning integrating biological concepts with health-related problem-solving; feedback valued the interactive design and active application of theory.</li>
+<li>Co-designed and tutored the bachelor course <em>Personalized Medicine and Cancer Treatment</em> (2024): case-based learning and small-group tutoring on clinical reasoning and decision-making with patient cases.</li>
+<li>Co-designed and tutored the bachelor course <em>Health & Biology</em> (2025): case- and project-based learning integrating biological concepts with health-related problem-solving.</li>
 </ul>
 </div>
 
@@ -318,13 +318,12 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <div class="experience-item">
 <div class="experience-header">
-  <span class="experience-title">MAIN LECTURER, WEB-BASED APPLICATION DEVELOPMENT | GUIYANG NORMAL COLLEGE</span>
+  <span class="experience-title">LECTURER, WEB-BASED APPLICATION DEVELOPMENT | GUIYANG NORMAL COLLEGE</span>
   <span class="experience-date">2021</span>
 </div>
 <ul>
-<li>Taught an undergraduate Web-based Application Development course (~30 students) as main lecturer.</li>
+<li>Taught an undergraduate Web-based Application Development course (~30 students) as lecturer.</li>
 <li>Project-based course with hands-on labs and iterative assignments: HTML/CSS/JavaScript, basic system architecture, and applied problem-solving.</li>
-<li>Course feedback emphasized the integrated project and the alignment between theory and implementation.</li>
 </ul>
 </div>
 

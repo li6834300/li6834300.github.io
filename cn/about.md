@@ -94,7 +94,7 @@ permalink: /cn/about/
 Li, Z., 等 (2024). <em>通过虚拟病人整合提升医学学习感知。</em> <strong>BMC Medical Education。</strong>
 </div>
 <div class="publication-item">
-Li, Z., 等 (2026，印刷中). <em>确保知识迁移："假如"讨论在虚拟病人仿真教学中的关键作用。</em> <strong>Perspectives on Medical Education。</strong> DOI: 10.5334/pme.2363
+Li, Z., 等 (2026). <em>确保知识迁移："假如"讨论在虚拟病人仿真教学中的关键作用。</em> <strong>Perspectives on Medical Education。</strong> DOI: 10.5334/pme.2363
 </div>
 <div class="publication-item">
 Li, Z., 等 (审稿中). <em>反馈讨论如何影响医学生临床推理能力。</em> <strong>Medical Teacher</strong>
@@ -141,8 +141,8 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
   <span class="experience-date">2024年至2025年</span>
 </div>
 <ul>
-<li>共同设计并辅导本科课程《个性化医疗与癌症治疗》（2024）：案例式学习与小组辅导，围绕病例开展临床推理与决策训练；课程反馈肯定了结构化活动与互动式病例讨论。</li>
-<li>共同设计并辅导本科课程《健康与生物学》（2025）：案例与项目式学习，将生物学概念与健康问题解决相结合；反馈认可其互动设计与理论的实际应用。</li>
+<li>共同设计并辅导本科课程《个性化医疗与癌症治疗》（2024）：案例式学习与小组辅导，围绕病例开展临床推理与决策训练。</li>
+<li>共同设计并辅导本科课程《健康与生物学》（2025）：案例与项目式学习，将生物学概念与健康问题解决相结合。</li>
 </ul>
 </div>
 
@@ -161,13 +161,12 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 
 <div class="experience-item">
 <div class="experience-header">
-  <span class="experience-title">主讲教师 · Web应用开发课程 | Guiyang Normal College（贵阳）</span>
+  <span class="experience-title">讲师 · Web应用开发课程 | Guiyang Normal College（贵阳）</span>
   <span class="experience-date">2021年</span>
 </div>
 <ul>
-<li>作为主讲教师，为约30名本科生讲授Web应用开发课程。</li>
+<li>作为讲师，为约30名本科生讲授Web应用开发课程。</li>
 <li>项目制课程，配合实操实验与迭代作业：HTML/CSS/JavaScript、基础系统架构与应用型问题解决。</li>
-<li>课程反馈肯定了综合项目设计以及理论与实现的紧密结合。</li>
 </ul>
 </div>
 

@@ -92,7 +92,7 @@ permalink: /nl/about/
 Li, Z., et al. (2024). <em>Perception of enhanced learning in medicine through integration of VPs.</em> <strong>BMC Medical Education.</strong>
 </div>
 <div class="publication-item">
-Li, Z., et al. (2026, in press). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
+Li, Z., et al. (2026). <em>Ensuring Knowledge Transfer: The Critical Role of "What-If" Discussions in Virtual Patient Simulation.</em> <strong>Perspectives on Medical Education.</strong> DOI: 10.5334/pme.2363
 </div>
 <div class="publication-item">
 Li, Z., et al. (onder review). <em>How feedback discussions influence medical students' clinical reasoning skill.</em> <strong>Medical Teacher</strong>
@@ -155,7 +155,7 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 
 <div class="experience-item">
 <div class="experience-header">
-  <span class="experience-title">Hoofddocent, Web-based Application Development | Guiyang Normal College (CN)</span>
+  <span class="experience-title">Docent, Web-based Application Development | Guiyang Normal College (CN)</span>
   <span class="experience-date">2021</span>
 </div>
 <ul>
