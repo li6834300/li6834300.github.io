@@ -107,6 +107,7 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 <h2>Conferenties en onderscheidingen</h2>
 
 <ul>
+<li><strong>Deelnemer aan werksessies</strong> (bijdragend, niet als presenterend auteur): <em>Toward an Ottawa Consensus Statement on AI in Health Professions Assessment</em> en aanverwante consensussessies over toetsontwerp en klinisch redeneren in het tijdperk van LLM's, AMEE-conferentie, Wenen, 2026</li>
 <li><strong>Beste presentatie</strong>, International Health Professions Education Virtual Conference, 2024</li>
 <li><strong>Presentatie</strong>: De rol van "Wat als"-discussies, AMEE-conferentie, 2025</li>
 <li><strong>Presentatie</strong>: Invloed van feedbackdiscussies op klinisch redeneren, EARLI-conferentie, 2025</li>

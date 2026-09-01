@@ -264,6 +264,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <h2>Conference Presentations & Awards</h2>
 
 <ul>
+<li><strong>Working-session participant</strong> (contributor, not presenting author): <em>Toward an Ottawa Consensus Statement on AI in Health Professions Assessment</em>, and related consensus-building sessions on assessment redesign and clinical reasoning under LLMs, AMEE Conference, Vienna, 2026.</li>
 <li><strong>Best Presentation Award</strong>, International Health Professions Education Virtual Conference, 2024.</li>
 <li><strong>Paper Presentation</strong>: The Role of "What-If" Discussions, AMEE Conference, 2025.</li>
 <li><strong>Paper Presentation</strong>: How feedback discussions influence clinical reasoning skills, EARLI Conference, 2025.</li>
