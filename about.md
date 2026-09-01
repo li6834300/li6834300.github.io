@@ -208,7 +208,7 @@ permalink: /about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Ph.D. Candidate in Education Technology | Maastricht University</span>
-  <span class="experience-date">JUNE 2022 – PRESENT</span>
+  <span class="experience-date">SEP 2022 – PRESENT</span>
 </div>
 <ul>
 <li><strong>Research Focus</strong>: Instructional Design, Virtual Patients (VPs), Learning Science, Education Technologies, Feedback.</li>
@@ -219,7 +219,7 @@ permalink: /about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Master of Science in Digital Media | New York University | GPA 3.85 / 4</span>
-  <span class="experience-date">MAY 2013</span>
+  <span class="experience-date">JAN 2012 – JUN 2013</span>
 </div>
 <ul>
 <li><strong>Key coursework</strong>: Game Design, HCI/User Experience, Media Study, Web Development, Video for New Media.</li>
@@ -230,7 +230,7 @@ permalink: /about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Bachelor in Broadcast Engineering | Communication University of China in Nanjing | GPA 3.23 / 4</span>
-  <span class="experience-date">JUN 2010</span>
+  <span class="experience-date">SEP 2006 – JUN 2010</span>
 </div>
 <ul>
 <li><strong>Minor</strong>: Public Relationship & Marketing</li>
@@ -278,6 +278,19 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <hr>
 
 <h2>Project & Experience</h2>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">VOLUNTEER INSTRUCTIONAL DESIGNER — KONBIT SARADI / RADIKAL VENDOR TRAINING CURRICULUM | HAITI-FOCUSED REMOTE PROJECT</span>
+  <span class="experience-date">AUG 2026 – PRESENT</span>
+</div>
+<ul>
+<li>Curriculum and assessment design for street-food vendors in Haiti's Southern Peninsula — learners with low formal literacy, limited connectivity and severe time constraints.</li>
+<li>Conducted context and learner research; built evidence-anchored learner personas from vendor interviews; translated findings into observable behaviours, learning objectives, differentiated levels, assessment rubrics and facilitator guidance.</li>
+<li>Guiding inclusive-design principle: literacy determines the format and support tier, not the learner's competence level. Materials designed for offline, handheld, visual-first use, with QR-linked audio/video where feasible and greyscale-safe cues that never rely on colour alone.</li>
+<li>Current scope: curriculum and assessment design are complete; field testing, Haitian Creole translation and final visual production are still in progress. <a href="https://lizhien.me/konbit-saradi/">Project write-up</a>.</li>
+</ul>
+</div>
 
 <div class="experience-item">
 <div class="experience-header">
@@ -500,7 +513,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Ph.D. Candidate in Education Technology | Maastricht University</span>
-  <span class="experience-date">JUN 2022 – PRESENT</span>
+  <span class="experience-date">SEP 2022 – PRESENT</span>
 </div>
 <ul>
 <li><strong>Research Focus</strong>: Virtual Patients (VPs), Learning Science, Education Technologies, Instructional Design, Feedback.</li>
@@ -511,7 +524,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Master of Science in Digital Media | New York University | GPA 3.85 / 4</span>
-  <span class="experience-date">MAY 2013</span>
+  <span class="experience-date">JAN 2012 – JUN 2013</span>
 </div>
 <ul>
 <li><strong>Key coursework</strong>: Game Design, HCI/User Experience, Media Study, Web Development, Video for New Media.</li>
@@ -522,7 +535,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Bachelor in Broadcast Engineering | Communication University of China in Nanjing | GPA 3.23 / 4</span>
-  <span class="experience-date">JUN 2010</span>
+  <span class="experience-date">SEP 2006 – JUN 2010</span>
 </div>
 <ul>
 <li><strong>Minor</strong>: Public Relationship & Marketing</li>

@@ -9,7 +9,6 @@ tags:
   - onderwijsontwerp
   - leerwetenschap
   - educatie
-preview: 2026-05-09-the-bathroom-book.png
 ---
 
 Er ligt een boek in onze badkamer. Niet omdat iemand het daar per ongeluk heeft laten liggen — ik heb het er bewust neergelegd, de positie drie keer aangepast over een periode van weken, en afgewacht. Mijn dochter is zeven. Ze had geen interesse in dit boek. Ik had het één keer aanbevolen, wat in de praktijk betekent dat ze het sindsdien liever niet aanraakte.
@@ -21,6 +20,8 @@ Eerste plek: naast de tandenborstel. Te opvallend. Tweede plek: op het plankje b
 Dit is geen verhaal over badkamerindeling. Dit is het moment waarop ik besefte dat veel van wat we "groei" noemen niet iets is wat je kunt eisen — maar iets wat je kunt ontwerpen.
 
 ---
+
+![Een boek schuin tegen de muur op een badkamerplank, precies in het blikveld van een kind](/images/2026-05-09-the-bathroom-book.png)
 
 Mijn werk is onderwijsontwerp. Ik breng veel professionele energie aan het nadenken over hoe leeromgevingen de cognitie beïnvloeden. De centrale inzicht van dit vakgebied, na decennia van onderzoek: leren is geen transactie. Je kunt inhoud niet simpelweg overdragen en verwachten dat begrip, retentie en toepassing vanzelf volgen. Context is niet decoratief. Omgeving is niet neutraal.
 
@@ -37,6 +38,3 @@ Ik schrijf hier een boek over. De werktitel is *Het Boek in de Badkamer*. De doe
 Het centrale argument is eenvoudig: groei is niet willekeurig. Het vindt plaats in omgevingen. Omgevingen kunnen worden ontworpen. Dus kan groei worden ontworpen — niet met valse zekerheid, maar met intentie en terugkoppeling, op dezelfde manier waarop we alles vormgeven wat de moeite waard is.
 
 Het boek in de badkamer is hoofdstuk één. Mijn dochter weet niet dat ze in de inleiding staat.
-
----
-*Dit bericht is automatisch opgesteld door GuanYu / 关羽 vanuit Zhien's kennisbank. Laatst beoordeeld: 2026-05-09.*

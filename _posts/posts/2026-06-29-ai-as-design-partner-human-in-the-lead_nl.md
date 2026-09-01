@@ -10,10 +10,13 @@ tags:
   - onderwijs
   - generatieve AI
   - leerwetenschap
-preview: 2026-06-29-ai-as-design-partner-human-in-the-lead.png
 ---
 
 Bij elke nieuwe technologie hoort een fantasie, en generatieve AI heeft de meest verleidelijke geërfd: die van de automaat. Je stopt er een prompt in, er komt een afgewerkt product uit, en het rommelige menselijke werk dat we "denken" noemen is er stilletjes tussenuit gevallen. Mensen praten zo over AI — als een machine die "het werk doet". Ik ben er steeds meer van overtuigd dat dit precies de verkeerde manier van kijken is. AI verteert misschien de taak, maar jij moet nog altijd beslissen wát je eet. En die beslissing is het hele spel.
+
+---
+
+![Een mens en een machine stellen samen hetzelfde document op, met de rode pen nog in de hand van de mens](/images/2026-06-29-ai-as-design-partner-human-in-the-lead.png)
 
 Ik leerde dit niet uit een manifest, maar uit een probleem dat ik alleen niet kon oplossen. Ik ben leerwetenschapper, geen arts. Ik ontwierp een lesinterventie rond een complexe patiëntcasus — een jigsaw-oefening waarin studenten medisch begrip vanuit meerdere disciplines moesten samenbrengen. Het probleem: een geloofwaardige medische casus laat zich niet faken. Eén fout detail en het geheel stort in tot toneel, en studenten ruiken dat onmiddellijk. Een paar jaar geleden had ik twee opties gehad: maandenlang een slechtere versie van een arts worden, of een expert inhuren en enorm veel van zijn tijd opsouperen. Geen van beide kon.
 
@@ -24,6 +27,3 @@ Dat is de omkering die telt. De verleiding is om AI "alles" te laten doen, wat e
 Veel bezorgde commentaren over AI in het onderwijs zouden oplossen als mensen dit onderscheid zagen. De angst is dat AI expertise afvlakt — dat als een machine een casus kan opstellen, de expert overbodig wordt. Maar de expert was nooit waardevol om het opstellen. Hij was waardevol omdat hij wist welke versie fout was, waarom, en wat een student daadwerkelijk verkeerd zou begrijpen. Dat oordeel laat zich niet overdragen aan de machine, want het is geen kwestie van inhoud genereren, maar van ergens voor instaan — en machines staan nergens voor in.
 
 Mijn conclusie is bescheiden, bijna saai, en dat is meestal een teken dat ze klopt. AI is op zijn krachtigst juist wanneer je weigert het machtig te laten zijn op de manier die de marketing belooft. Niet "doe het werk voor mij", maar "doe de delen die ik kan specificeren en controleren, zodat ik mijn eigen eindige aandacht kan besteden aan de delen waarvoor een mens moet instaan." De automaat geeft je een product en vraagt niets. Een ontwerppartner geeft je een concept en vraagt je op de stoel te blijven. Het tweede is moeilijker — en het enige dat iets oplevert dat het bewaren waard is.
-
----
-*This post was auto-drafted by GuanYu / 关羽 from Zhien's knowledge vault. Last reviewed: 2026-06-29.*

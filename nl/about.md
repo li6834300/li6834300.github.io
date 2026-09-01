@@ -55,7 +55,7 @@ permalink: /nl/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">PhD-kandidaat Onderwijstechnologie | Universiteit Maastricht</span>
-  <span class="experience-date">JUNI 2022 – HEDEN</span>
+  <span class="experience-date">SEP 2022 – HEDEN</span>
 </div>
 <ul>
 <li><strong>Onderzoeksthema's</strong>: Instructional design, virtuele patiënten (VP's), leerwetenschappen, onderwijstechnologie, feedback</li>
@@ -66,7 +66,7 @@ permalink: /nl/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Master of Science in Digital Media | New York University | GPA 3,85/4</span>
-  <span class="experience-date">MEI 2013</span>
+  <span class="experience-date">JAN 2012 – JUNI 2013</span>
 </div>
 <ul>
 <li><strong>Vakken</strong>: Game design, HCI/UX, mediastudies, webontwikkeling, video voor nieuwe media</li>
@@ -77,7 +77,7 @@ permalink: /nl/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">Bachelor Broadcast Engineering | Communication University of China (Nanjing) | GPA 3,23/4</span>
-  <span class="experience-date">JUNI 2010</span>
+  <span class="experience-date">SEP 2006 – JUNI 2010</span>
 </div>
 <ul>
 <li><strong>Minor</strong>: Public relations en marketing</li>
@@ -118,6 +118,19 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 <hr>
 
 <h2>Werkervaring</h2>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">Vrijwillig instructional designer — Konbit Saradi / RADIKAL, trainingscurriculum voor straatverkopers | Haïti, op afstand</span>
+  <span class="experience-date">AUG 2026 – HEDEN</span>
+</div>
+<ul>
+<li>Curriculum- en toetsontwerp voor straatvoedselverkopers op het zuidelijke schiereiland van Haïti — lerenden met beperkte formele geletterdheid, slechte connectiviteit en nauwelijks tijd om te leren.</li>
+<li>Context- en doelgroeponderzoek uitgevoerd; op interviews gebaseerde persona's opgesteld; bevindingen vertaald naar observeerbaar gedrag, leerdoelen, niveaudifferentiatie, beoordelingsrubrieken en begeleidershandleiding.</li>
+<li>Leidend inclusief-ontwerpprincipe: geletterdheid bepaalt de vorm en het ondersteuningsniveau van het materiaal, niet het niveau van de lerende. Materialen zijn ontworpen voor offline gebruik in de hand, beeld eerst, met QR-links naar audio en video waar mogelijk en signalen die ook in grijstinten leesbaar blijven.</li>
+<li>Huidige stand: curriculum- en toetsontwerp zijn afgerond; veldtest, vertaling naar Haïtiaans Creools en definitieve vormgeving lopen nog. <a href="https://lizhien.me/konbit-saradi/">Projectbeschrijving</a>.</li>
+</ul>
+</div>
 
 <div class="experience-item">
 <div class="experience-header">

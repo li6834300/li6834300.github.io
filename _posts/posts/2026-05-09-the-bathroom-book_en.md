@@ -9,7 +9,6 @@ tags:
   - instructional design
   - learning science
   - education
-preview: 2026-05-09-the-bathroom-book.png
 ---
 
 There's a book in my bathroom. Not *in* the bathroom in the sense that someone reads it there regularly — I put it there on purpose, adjusted its position three times over several weeks, and waited. My daughter is seven. She hadn't shown much interest in this particular book. I'd mentioned it once, which is to say I made the mistake of recommending it, which of course meant she'd now rather read anything else.
@@ -21,6 +20,8 @@ The first spot: on the edge of the sink, next to her toothbrush. Too obvious. To
 This is not a story about bathroom optimization. It's about the moment I realized that a great deal of what we call "growth" isn't something we can demand — it's something we can design.
 
 ---
+
+![A book propped at an angle on a bathroom shelf, positioned within a child's line of sight](/images/2026-05-09-the-bathroom-book.png)
 
 I work in instructional design. I spend a great deal of professional energy thinking about how learning environments shape cognition — how the structure of a task, the timing of feedback, the scaffolding of complexity can make the difference between genuine understanding and shallow performance. The central insight of the field, which took educational psychologists decades of humiliating experimental failures to establish, is this: learning is not a transaction. You cannot simply deliver content to a human and expect retention, understanding, or transfer. Context is not decoration. Environment is not neutral.
 
@@ -51,6 +52,3 @@ I am not qualified by credential to write about parenting. I have a PhD in educa
 The book's central argument is simple: growth is not random. It happens inside environments. Environments can be designed. Therefore, growth can be designed — not engineered with false certainty, but shaped with intention and feedback, the same way we shape anything else worth building.
 
 The bathroom book is chapter one. My daughter doesn't know she's in the introduction.
-
----
-*This post was auto-drafted by GuanYu / 关羽 from Zhien's knowledge vault. Last reviewed: 2026-05-09.*

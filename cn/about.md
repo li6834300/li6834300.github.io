@@ -57,7 +57,7 @@ permalink: /cn/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">教育技术学博士候选人 | 马斯特里赫特大学</span>
-  <span class="experience-date">2022年6月至今</span>
+  <span class="experience-date">2022年9月至今</span>
 </div>
 <ul>
 <li><strong>研究方向</strong>：教学设计、虚拟病人（VP）、学习科学、教育技术、反馈机制</li>
@@ -68,7 +68,7 @@ permalink: /cn/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">数字媒体理学硕士 | 纽约大学 | GPA 3.85/4</span>
-  <span class="experience-date">2013年5月</span>
+  <span class="experience-date">2012年1月至2013年6月</span>
 </div>
 <ul>
 <li><strong>核心课程</strong>：游戏设计、人机交互/用户体验、媒体研究、Web开发、新媒体视频</li>
@@ -79,7 +79,7 @@ permalink: /cn/about/
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">广播工程学士 | 南京中国传媒大学 | GPA 3.23/4</span>
-  <span class="experience-date">2010年6月</span>
+  <span class="experience-date">2006年9月至2010年6月</span>
 </div>
 <ul>
 <li><strong>辅修</strong>：公共关系与市场营销</li>
@@ -123,6 +123,19 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <hr>
 
 <h2>项目与工作经历</h2>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">志愿教学设计师 —— Konbit Saradi / RADIKAL 摊贩培训课程 | 海地远程项目</span>
+  <span class="experience-date">2026年8月至今</span>
+</div>
+<ul>
+<li>为海地南部半岛的街头食品摊贩设计课程与评估体系。学习者多为女性，正规读写水平有限、网络条件差、时间极为紧张。</li>
+<li>开展情境与学习者研究；基于摊贩访谈原话构建有据可依的学习者画像；把访谈发现转化为可观察的行为目标、学习目标、分层难度、评估量规与引导者手册。</li>
+<li>核心的包容性设计原则：<strong>读写水平决定的是材料的形式与支持层级，而不是学习者的能力上限。</strong>材料按离线、手持、图像优先来设计，可行处以二维码链接音视频，并保证灰度可辨、绝不单靠颜色传递信息。</li>
+<li>当前边界：课程与评估设计已完成，实地测试、海地克里奥尔语翻译与最终视觉制作尚在进行中。<a href="https://lizhien.me/konbit-saradi/">项目详述</a>。</li>
+</ul>
+</div>
 
 <div class="experience-item">
 <div class="experience-header">
@@ -271,14 +284,14 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">教育技术学博士候选人 | 马斯特里赫特大学</span>
-  <span class="experience-date">2022年6月至今</span>
+  <span class="experience-date">2022年9月至今</span>
 </div>
 </div>
 
 <div class="education-item">
 <div class="experience-header">
   <span class="experience-title">数字媒体理学硕士 | 纽约大学 | GPA 3.85/4</span>
-  <span class="experience-date">2013年5月</span>
+  <span class="experience-date">2012年1月至2013年6月</span>
 </div>
 </div>
 
