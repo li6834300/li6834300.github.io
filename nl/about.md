@@ -226,12 +226,24 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 <li><strong>Testen & QA</strong>: TDD, Jest, Karma, Selenium; unit-/integratie-/end-to-end-testautomatisering; CI/CD-kwaliteitsvalidatie</li>
 <li><strong>Specialisaties</strong>: Front-end architectuur, i18n, UX-prototyping, AI-tools, webperformance</li>
 <li><strong>Overig</strong>: Unity3D, datavisualisatie, LMS-integraties, EdTech-productontwerp</li>
-<li><strong>Eigen platformproject</strong>: een self-service AI-transcriptieplatform op Azure. De applicatie is bewust eenvoudig gehouden, zodat het platform eronder het eigenlijke werk was: AKS met gescheiden CPU- en GPU-workloads, Bicep als IaC-laag, Entra ID workload identity voor authenticatie zonder sleutels, CI/CD met GitHub Actions, monitoring, governance en kostenbeheersing.</li>
 </ul>
 
 <hr>
 
 <h2>Werkervaring</h2>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">Platform Engineer (project) | Self-service AI-transcriptieplatform | Onderzoeksgroep universiteit, Maastricht</span>
+  <span class="experience-date">OKT 2025 – JUNI 2026</span>
+</div>
+<ul>
+<li>Self-service transcriptiedienst gebouwd voor een onderzoeksgroep die interview- en focusgroepopnames tot dan toe per uur bij commerciële aanbieders liet transcriberen</li>
+<li>Whisper-achtige spraakmodellen op AKS met gescheiden CPU- en GPU-workloads; Bicep als IaC-laag; Entra ID workload identity voor authenticatie zonder sleutels; CI/CD met GitHub Actions, monitoring, governance en kostenbeheersing</li>
+<li>De applicatielaag is bewust eenvoudig gehouden, zodat het platform eronder het eigenlijke werk was</li>
+<li>De bepalende keuze — verwerking binnen de eigen tenant van de universiteit in plaats van bij een externe partij — onderbouwd en uitgelegd aan een niet-technische leiding</li>
+</ul>
+</div>
 
 <div class="experience-item">
 <div class="experience-header">

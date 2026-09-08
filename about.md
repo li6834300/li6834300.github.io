@@ -431,6 +431,19 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <div class="experience-item">
 <div class="experience-header">
+  <span class="experience-title">PLATFORM ENGINEER (PROJECT) | SELF-SERVICE AI TRANSCRIPTION PLATFORM | UNIVERSITY RESEARCH GROUP, MAASTRICHT, NL</span>
+  <span class="experience-date">OCT 2025 TO JUN 2026</span>
+</div>
+<ul>
+<li>Built a self-service transcription service for a research group that was paying commercial providers by the hour for interview and focus-group recordings.</li>
+<li>Whisper-class speech models running on AKS with separate CPU and GPU workloads; Bicep as the infrastructure-as-code layer; Entra ID workload identity for keyless authentication; GitHub Actions CI/CD, monitoring, governance and cost controls.</li>
+<li>Kept the application layer deliberately simple so the platform underneath was the object of the work.</li>
+<li>Led the design decision to keep processing inside the university's own tenant rather than sending recordings to a third party, and made the data-safety and cost case to a non-technical supervisory team.</li>
+</ul>
+</div>
+
+<div class="experience-item">
+<div class="experience-header">
   <span class="experience-title">CO-FOUNDER & ENGINEER | QINGREN EDU TECH CORP | DONGGUAN, CN</span>
   <span class="experience-date">JUN 2020 TO JUN 2022</span>
 </div>
@@ -486,7 +499,6 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 
 <ul>
 <li><strong>Overstep</strong>, an AI based language learning tool. Fully self-developed, allow user to learn any language from any mother tone.</li>
-<li><strong>Self-service AI transcription platform on Azure</strong>. A platform-engineering build where the application was kept deliberately simple so the infrastructure underneath was the real work: AKS with separate CPU and GPU workloads, Bicep as the IaC layer, Entra ID workload identity for keyless authentication, GitHub Actions CI/CD, monitoring, governance and cost controls.</li>
 <li>Several game developments with Unity and RPG Maker.</li>
 <li>Build websites, brand with help of AI (go to <a href="https://lizhien.me/">https://lizhien.me/</a> to see works)</li>
 </ul>

@@ -244,12 +244,24 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <li><strong>测试与质量</strong>：TDD、Jest、Karma、Selenium；单元/集成/端到端自动化测试；CI/CD质量验证</li>
 <li><strong>专项能力</strong>：前端架构、国际化（i18n）、UX原型设计、AI辅助工具、Web性能优化</li>
 <li><strong>其他</strong>：Unity3D、数据可视化、LMS集成、教育科技产品设计</li>
-<li><strong>个人平台项目</strong>：Azure 上的自助式 AI 转写平台。应用层刻意做得简单，真正的工作在底层平台：AKS 上分离的 CPU 与 GPU 工作负载、以 Bicep 编写的基础设施即代码、Entra ID 工作负载身份实现免密钥认证、GitHub Actions 持续集成与部署，以及监控、治理与成本控制。</li>
 </ul>
 
 <hr>
 
 <h2>工作经历</h2>
+
+<div class="experience-item">
+<div class="experience-header">
+  <span class="experience-title">平台工程师（项目制）| Azure 自助式 AI 转写平台 | 马斯特里赫特某大学研究组</span>
+  <span class="experience-date">2025年10月至2026年6月</span>
+</div>
+<ul>
+<li>为一个此前按小时向商业服务商购买访谈与焦点小组录音转写的研究组，搭建自助式转写服务</li>
+<li>Whisper 系语音模型跑在 AKS 上，CPU 与 GPU 工作负载分离；以 Bicep 编写基础设施即代码；Entra ID 工作负载身份实现免密钥认证；GitHub Actions 持续集成与部署，并配监控、治理与成本控制</li>
+<li>应用层刻意做得简单，真正的工作对象是底层平台</li>
+<li>主导「数据不出校方租户」这一关键技术决策，并向非技术背景的管理层完成数据安全与成本论证</li>
+</ul>
+</div>
 
 <div class="experience-item">
 <div class="experience-header">
