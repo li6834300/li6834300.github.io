@@ -94,7 +94,7 @@ permalink: /cn/about/
 Li, Z., 等 (2024). <em>通过虚拟病人整合提升医学学习感知。</em> <strong>BMC Medical Education。</strong>
 </div>
 <div class="publication-item">
-Li, Z., 等 (2026). <em>确保知识迁移："假如"讨论在虚拟病人仿真教学中的关键作用。</em> <strong>Perspectives on Medical Education。</strong> DOI: 10.5334/pme.2363
+Li, Z., 等 (2026). <em>确保知识迁移："假如"讨论在虚拟病人仿真教学中的关键作用。</em> <strong>Perspectives on Medical Education, 15</strong>(1), 633–643。DOI: 10.5334/pme.2363
 </div>
 <div class="publication-item">
 Li, Z., 等 (审稿中). <em>反馈讨论如何影响医学生临床推理能力。</em> <strong>Medical Teacher</strong>
