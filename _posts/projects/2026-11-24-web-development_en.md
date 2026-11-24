@@ -12,7 +12,7 @@ tags:
 preview: projectImg/webdev_ezhub.jpg
 align: align-left
 urlLinks:
-  - url: https://ez-hub.com
+  - url: https://ez-hub.eu
     name: Latest — EZ-Hub
 ---
 
@@ -26,7 +26,7 @@ I have been building websites since 2013 — first by hand, then on GitHub Pages
 
 A bilingual (English / Dutch) one-page site for a warehousing, customs and transport company in Düsseldorf, including licensed storage for dangerous goods. My own WordPress theme with an industrial look built around the orange ADR hazard plate, a quote form, a schematic map of the region, and no cookies or tracking at all. Planned, designed and launched in a single day, on hosting the client already had.
 
-[ez-hub.com](https://ez-hub.com)
+[ez-hub.eu](https://ez-hub.eu)
 
 ### PowerX Solar · 2026
 ![PowerX Solar home page](/images/projectImg/webdev_powerx.jpg)

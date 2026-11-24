@@ -12,7 +12,7 @@ tags:
 preview: projectImg/webdev_ezhub.jpg
 align: align-left
 urlLinks:
-  - url: https://ez-hub.com
+  - url: https://ez-hub.eu
     name: 最新 —— EZ-Hub
 ---
 
@@ -26,7 +26,7 @@ urlLinks:
 
 杜塞尔多夫一家仓储、清关与运输公司（含持证危险品仓储）的英语 / 荷兰语单页网站。自己写的 WordPress 主题，以 ADR 危险品橙色标牌为视觉核心，带询价表单和区域示意地图，不用 cookie、不做追踪。从规划、设计到上线只用了一天，用的是客户已有的主机。
 
-[ez-hub.com](https://ez-hub.com)
+[ez-hub.eu](https://ez-hub.eu)
 
 ### PowerX Solar · 2026
 ![PowerX Solar 首页](/images/projectImg/webdev_powerx.jpg)
