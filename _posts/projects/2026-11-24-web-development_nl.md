@@ -24,7 +24,7 @@ Sinds 2013 bouw ik websites: eerst met de hand, daarna op GitHub Pages en nu als
 ### EZ-Hub (Eosy Logistics) · 2026
 ![Homepage van EZ-Hub](/images/projectImg/webdev_ezhub.jpg)
 
-Een tweetalige (Engels / Nederlands) one-pager voor een logistiek bedrijf met opslag van gevaarlijke stoffen in Düsseldorf. Een eigen WordPress-thema met een industriële stijl rond het oranje ADR-bord, een offerteformulier, een schematische kaart van de regio en geen cookies of tracking. Gepland, ontworpen en live gezet op één dag, op hosting die de klant al had.
+Een tweetalige (Engels / Nederlands) one-pager voor een bedrijf in opslag, douane en transport in Düsseldorf, inclusief vergunde opslag van gevaarlijke stoffen. Een eigen WordPress-thema met een industriële stijl rond het oranje ADR-bord, een offerteformulier, een schematische kaart van de regio en geen cookies of tracking. Gepland, ontworpen en live gezet op één dag, op hosting die de klant al had.
 
 [ez-hub.com](https://ez-hub.com)
 

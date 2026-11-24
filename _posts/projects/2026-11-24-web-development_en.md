@@ -24,7 +24,7 @@ I have been building websites since 2013 — first by hand, then on GitHub Pages
 ### EZ-Hub (Eosy Logistics) · 2026
 ![EZ-Hub home page](/images/projectImg/webdev_ezhub.jpg)
 
-A bilingual (English / Dutch) one-page site for a dangerous-goods warehouse and logistics company in Düsseldorf. My own WordPress theme with an industrial look built around the orange ADR hazard plate, a quote form, a schematic map of the region, and no cookies or tracking at all. Planned, designed and launched in a single day, on hosting the client already had.
+A bilingual (English / Dutch) one-page site for a warehousing, customs and transport company in Düsseldorf, including licensed storage for dangerous goods. My own WordPress theme with an industrial look built around the orange ADR hazard plate, a quote form, a schematic map of the region, and no cookies or tracking at all. Planned, designed and launched in a single day, on hosting the client already had.
 
 [ez-hub.com](https://ez-hub.com)
 
