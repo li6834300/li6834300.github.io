@@ -399,7 +399,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">I am currently actively looking for a position in the Netherlands in academia or educational software development. I believe there is a big change on how people learn and how we should implement tools for learning. If you would like to change the educational world with me, shoot me an email at <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a> or <a href="mailto:zhien.li@maastrichtuniversity.nl">zhien.li@maastrichtuniversity.nl</a>.</p>
+<p style="margin: 0; font-style: italic; color: #555;">From December 2026 I work as a Junior Research Software Engineer at the Institute of Environmental Sciences (CML), Leiden University, building research software for sustainability science. I still believe there is a big change in how people learn and in how we should build tools for it. If you would like to talk about research software, education, or both, write to me at <a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> or <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>.</p>
 </div>
 
   </div>
@@ -557,7 +557,7 @@ Li, Z., et al. (in preparation) <em>Contextualized learning empowered by peer di
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">I am currently actively looking for a position in the Netherlands in academia or educational software development. I believe there is a big change on how people learn and how we should implement tools for learning. If you would like to change the educational world with me, shoot me an email at <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a> or <a href="mailto:zhien.li@maastrichtuniversity.nl">zhien.li@maastrichtuniversity.nl</a>.</p>
+<p style="margin: 0; font-style: italic; color: #555;">From December 2026 I work as a Junior Research Software Engineer at the Institute of Environmental Sciences (CML), Leiden University, building research software for sustainability science. I still believe there is a big change in how people learn and in how we should build tools for it. If you would like to talk about research software, education, or both, write to me at <a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> or <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>.</p>
 </div>
 
   </div>

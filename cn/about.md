@@ -221,7 +221,7 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">目前我正积极寻求荷兰学术界或教育软件开发领域的工作机会。我深信学习方式正在经历深刻变革，科技将重新定义教育的边界。如果您也希望与我共同改变教育世界，欢迎发邮件至 <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a> 或 <a href="mailto:zhien.li@maastrichtuniversity.nl">zhien.li@maastrichtuniversity.nl</a>。</p>
+<p style="margin: 0; font-style: italic; color: #555;">自 2026 年 12 月起，我在莱顿大学环境科学研究所（CML）任初级科研软件工程师，为可持续性科学研究开发科研软件。我依然深信学习方式正在经历深刻变革，科技将重新定义教育的边界。如果您想聊聊科研软件、教育，或者两者一起聊，欢迎发邮件至 <a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> 或 <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>。</p>
 </div>
 
   </div>
@@ -310,7 +310,7 @@ Li, Z., 等 (准备中). <em>同伴对话赋能情境化学习：生物与健康
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">目前正在荷兰积极寻找学术或教育软件开发职位。欢迎联系：<a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a></p>
+<p style="margin: 0; font-style: italic; color: #555;">自 2026 年 12 月起任莱顿大学环境科学研究所（CML）初级科研软件工程师。欢迎联系：<a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> 或 <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a></p>
 </div>
 
   </div>

@@ -203,7 +203,7 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">Ik ben momenteel actief op zoek naar een functie in Nederland, bij voorkeur in de academische wereld of in de ontwikkeling van educatieve software. Ik geloof dat er een grote verandering gaande is in hoe mensen leren. Wil jij samen met mij het onderwijs veranderen? Stuur een e-mail naar <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a> of <a href="mailto:zhien.li@maastrichtuniversity.nl">zhien.li@maastrichtuniversity.nl</a>.</p>
+<p style="margin: 0; font-style: italic; color: #555;">Vanaf december 2026 werk ik als Junior Research Software Engineer bij het Centrum voor Milieuwetenschappen (CML) van de Universiteit Leiden, waar ik onderzoekssoftware bouw voor duurzaamheidswetenschap. Ik geloof nog steeds dat er een grote verandering gaande is in hoe mensen leren. Wil je praten over onderzoekssoftware, onderwijs of allebei? Stuur een e-mail naar <a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> of <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>.</p>
 </div>
 
   </div>
@@ -273,7 +273,7 @@ Li, Z., et al. (in voorbereiding). <em>Contextualized learning empowered by peer
 <hr>
 
 <div style="background: #f8f7fc; padding: 20px; border-radius: 8px; border-left: 4px solid #7d72b3; margin-top: 30px;">
-<p style="margin: 0; font-style: italic; color: #555;">Momenteel op zoek naar een functie in Nederland in academische omgeving of educatieve softwareontwikkeling. Neem contact op via <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>.</p>
+<p style="margin: 0; font-style: italic; color: #555;">Vanaf december 2026 Junior Research Software Engineer bij het CML, Universiteit Leiden. Neem contact op via <a href="mailto:z.li@cml.leidenuniv.nl">z.li@cml.leidenuniv.nl</a> of <a href="mailto:kenli@nyu.edu">kenli@nyu.edu</a>.</p>
 </div>
 
   </div>
